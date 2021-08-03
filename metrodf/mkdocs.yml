@@ -1,1 +1,5 @@
 site_name: Metrô-DF
+
+nav: 
+  - Home: index.md
+  - Equipe: equipe.md
