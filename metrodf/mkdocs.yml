@@ -1,5 +1,17 @@
 site_name: Metrô-DF
 
+theme:
+  name: material
+  favicon: imagens/logoMetroDF.png
+  logo: imagens/logoMetroDF.png
+  palette:
+    primary: green
+  language: pt
+
 nav: 
-  - Home: index.md
-  - Equipe: equipe.md
+  - Sobre o projeto: index.md
+  - Planejamento: Planejamento/planejamento.md
+  - Pré-rastreabilidade: 
+      - Rich Picture: Pre-Rastreabilidade/RichPicture.md
+
+
