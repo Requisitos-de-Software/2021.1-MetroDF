@@ -1,7 +1,7 @@
 site_name: Metrô-DF
 
 theme:
-  name: material
+  name: cerulean
   favicon: imagens/logoMetroDF.png
   logo: imagens/logoMetroDF.png
   palette:
