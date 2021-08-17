@@ -12,7 +12,7 @@
 ## HeatMap
 <p align="justify"> A tabela a seguir representa quantos integrantes do grupo estão disponíveis em cada dia e em cada horário, com o intuito de gerenciar a disponibilidade dos membros para reuniões e realização do projeto.</p>
 
-<img alt = "HeatMap" src="/imagens/heatmap.png"/>
+<img alt = "HeatMap" src="../../imagens/heatmap.png"/>
 
 ## Cronograma de atividades
 
