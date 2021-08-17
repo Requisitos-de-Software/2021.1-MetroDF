@@ -1,12 +1,14 @@
 site_name: Metrô-DF
 
 theme:
-  name: cerulean
+  name: material
   favicon: imagens/logoMetroDF.png
   logo: imagens/logoMetroDF.png
   palette:
     primary: green
   language: pt
+
+docs_dir: docs/
 
 nav: 
   - Sobre o projeto: index.md
