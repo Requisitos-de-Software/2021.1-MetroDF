@@ -15,5 +15,15 @@ nav:
   - Planejamento: Planejamento/planejamento.md
   - Pré-rastreabilidade: 
       - Rich Picture: Pre-Rastreabilidade/RichPicture.md
+  - Elicitação de requisitos: 
+      - Brainstorming: Elicitacao/brainstorming.md
+      - Introspecção: Elicitacao/introspeccao.md
+      - Observação Participativa: Elicitacao/observacao.md
+      - Personas: Elicitacao/personas.md
+      - Storyboard: Elicitacao/storyboard.md
+      - Resultados: Elicitacao/resultados.md
+  - Priorização de requisitos: 
+      - First Things First: Priorizacao/ftf.md
+      - MoSCoW:  Priorizacao/moscow.md
 
 
