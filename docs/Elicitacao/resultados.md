@@ -8,7 +8,7 @@
 | Número | Requisito               | Técnicas               |
 | ------ | ----------------------- | ---------------------  | 
 | 1      | O usuário deve ser capaz de visualizar notícias  | Brainstorming, Personas, Observação participativa
-| 2      | O usuário deve ser capaz de visualizar horário dos trens   | Brainstorming, Personas, Introspecção, Observação deta
+| 2      | O usuário deve ser capaz de visualizar horário dos trens   | Brainstorming, Personas, Introspecção, Observação participativa
 | 3      | O usuário deve ser capaz de atualizar horário dos trens  | Brainstorming, Observação participativa
 | 4      | O usuário deve ser capaz de falar com a ouvidoria | Brainstorming, Introspecção, Observação participativa
 | 5      | O usuário deve ser capaz de recarregar cartão do metrô  | Brainstorming

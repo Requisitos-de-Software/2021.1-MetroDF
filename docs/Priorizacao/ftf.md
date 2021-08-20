@@ -4,7 +4,7 @@
 <p align="justify">First Things First é uma técnica de priorização de requisitos baseada no custo, risco e valor de cada requisito. A equipe optou pelo First Things First por se uma técnica que apresenta uma abordagem formal e fornece valores de prioridade quantitativos.</p>
 
 ## Metodologia
-<p align="justify">De acordo com Wiegers (2017), a técnica apresenta oito passos: </p>
+<p align="justify">De acordo com Wiegers (1999), a técnica apresenta oito passos: </p>
 
 1. Lista-se todos os requisitos, recursos ou casos de uso que devem ser priorizados em uma planilha. Se certos requisitos estão logicamente vinculados, deve-se incluir apenas o requisito principal.
 2. O benefício relativo que cada requisito oferece deve ser estimado em uma escala de 1 a 9, com 1 indicando muito pouco benefício e 9 sendo o benefício máximo possível.
@@ -21,7 +21,7 @@
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
 ## Referências
-<p align="justify">WIEGERS,Karl. First Things First: <b>Prioritizing Requirements</b>. Process Impact, 1999. Disponível em: <<a>http://www.processimpact.com/articles/prioritizing.html</a>>. Acesso em 18 agos. 2021.</p>
+<p align="justify">WIEGERS, Karl. <b>First Things First: Prioritizing Requirements</b>. Process Impact, 1999. Disponível em: <<a>http://www.processimpact.com/articles/prioritizing.html</a>>. Acesso em 18 agos. 2021.</p>
 
 | Data       | Versão | Descrição                                       | Autores          | Revisor          |
 | ---------- | ------ | ---------------------------------------------   | ---------------- | ---------------- |
