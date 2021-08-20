@@ -5,3 +5,5 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WswuPzW5O58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2ª Apresentação - Elicitação e Priorização
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8w_sGtIQhcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

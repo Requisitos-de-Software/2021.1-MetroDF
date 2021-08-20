@@ -20,8 +20,19 @@
 | Tipo | Requisito | Benefício Relativo | Penalidade Relativa | Valor Relativo | Valor Percentual | Custo Relativo | Custo Percentual | Risco Relativo | Risco Percentual | Prioridade |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
+
+
+* Benefício Relativo: 1
+* Penalidade Relativa: 1
+* Custo Relativo: 1
+* Risco Relativo: 1
+* Precisão: 2 casas decimais
+
+
 ## Referências
 <p align="justify">WIEGERS, Karl. <b>First Things First: Prioritizing Requirements</b>. Process Impact, 1999. Disponível em: <<a>http://www.processimpact.com/articles/prioritizing.html</a>>. Acesso em 18 agos. 2021.</p>
+
+## Versionamento
 
 | Data       | Versão | Descrição                                       | Autores          | Revisor          |
 | ---------- | ------ | ---------------------------------------------   | ---------------- | ---------------- |
