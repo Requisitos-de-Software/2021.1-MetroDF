@@ -1,5 +1,4 @@
 # Personas
-<br>
 
 ## O que são *personas*?
 Persona é um personagem semi fictício, baseado em dados e comportamentos reais, que representa o cliente ideal de uma marca ou empresa. Ela também é conhecida como buyer persona ou avatar. A persona orienta a criação de conteúdo e o Marketing Digital.
@@ -48,7 +47,7 @@ Qual a maior qualidade da empresa x?
 
 |              | Persona                                                                                         |
 | ------------ | ----------------------------------------------------------------------------------------------- |
-| Foto         |                       |
+| Foto         | <img alt = "João Pedro" src="imagens/Personas/joaopedro.jpeg" width = "100"/> |
 | Nome         | João Pedro |
 | Idade        | 22 anos |
 | Profissão    | Estudante de Enfermagem |
@@ -63,7 +62,7 @@ Qual a maior qualidade da empresa x?
 
 |              | Persona                                                                                         |
 | ------------ | ----------------------------------------------------------------------------------------------- |
-| Foto         |          |
+| Foto         | <img alt = "Gabriela" src="imagens/Personas/gabriela.jpg" width = "100"/>         |
 | Nome         | Gabriela |
 | Idade        | 29 |
 | Profissão    | Educadora física |
@@ -78,7 +77,7 @@ Qual a maior qualidade da empresa x?
 
 |              | Persona                                                                                         |
 | ------------ | ----------------------------------------------------------------------------------------------- |
-| Foto         |                 |
+| Foto         | <img alt = "Maria Aparecida" src="imagens/Personas/mariaaparecida.jpg" width = "100"/>                |
 | Nome         | Maria Aparecida |
 | Idade        | 52 anos |
 | Profissão    | Dona de casa |
@@ -93,7 +92,7 @@ Qual a maior qualidade da empresa x?
 
 |              | Persona                                                                                         |
 | ------------ | ----------------------------------------------------------------------------------------------- |
-| Foto         |             |
+| Foto         | <img alt = "Paulo André" src="imagens/Personas/pauloandre.jpg" width = "100"/>            |
 | Nome         | Paulo André |
 | Idade        | 43 anos |
 | Profissão    | Empresário |
