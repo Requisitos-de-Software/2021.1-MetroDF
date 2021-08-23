@@ -1,20 +1,18 @@
 # Observação Participativa
 
-  A observação participativa é uma técnica que possibilita a inserção dos desenvolvedores no contexto da aplicação. Essa técnica consiste na observação da aplicação a fim conhecer suas funcionalidades e observar tarefas que podem ser executadas pelo usuário, bem como a experiência do usuário na aplicação.
+## Introdução
 
-  O intuito, ao utilizar a técnica, é obter requisitos através da análise das tarefas que podem ser realizadas no aplicativo. 
-
-
-  A aplicação dessa tecnica é feita tendo os membros baixando e instalando o aplicativo e se tornando usuários para, após 1 dia de análise, elencar os principais requisitos encontrados. 
-
-  Após a coleta nós realizamos a listagem com base nos requisitos encontrados.
+ <p align="justify">A observação participativa é uma técnica que possibilita a inserção dos desenvolvedores no contexto da aplicação. Essa técnica consiste na observação da aplicação a fim de conhecer suas funcionalidades e observar tarefas que podem ser executadas pelo usuário, bem como a experiência do usuário na aplicação.</p>
+<p align="justify">O intuito, ao utilizar a técnica, é obter requisitos através da análise das tarefas que podem ser realizadas no aplicativo. </p>
+<p align="justify">A aplicação dessa técnica é feita tendo os membros baixando e instalando o aplicativo e se tornando usuários para, após 1 dia de análise, elencar os principais requisitos encontrados. </p>
+<p align="justify">Após a coleta nós realizamos a listagem com base nos requisitos encontrados.</p>
 
 ### Participantes
- Todos os membros Participaram
+Todos os membros participaram
 
+** Data de realização: 11/08/2021. **
 
-###### Data de realização: 11/08/2021.
-###### Reunião remota.
+** Reunião remota. **
 
 | Número | Requisito               |
 | ------ | ----------------------- |
@@ -31,4 +29,16 @@
 |11|O usuário deve ver informações de horários de abertura e fechamento |
 |12|O usuário deve poder ver notícias do metrô-DF |
 |13|O usuário deve poder receber mensagens sobre notificações do metrô-DF |
+
+
+## Referências
+<p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07.</p>
+
+## Versionamento
+
+| Data       | Versão | Descrição                                       | Autores             | Revisor          |
+| ---------- | ------ | ---------------------------------------------   | ------------------- | ---------------- |
+| 20/08/2021 |  0.1   | Elaboração do documento                         |  Felipe Agustini    |  Hérya Rodrigues |
+| 23/08/2021 |  0.2   | Padronização do documento                       |  Hérya  Rodrigues   |
+
 
