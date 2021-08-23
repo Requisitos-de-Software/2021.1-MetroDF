@@ -47,7 +47,7 @@ Qual a maior qualidade da empresa x?
 
 |              | Persona                                                                                         |
 | ------------ | ----------------------------------------------------------------------------------------------- |
-| Foto         | <img alt = "João Pedro" src="imagens/Personas/joaopedro.jpeg" width = "100"/> |
+| Foto         | <img alt = "João Pedro" src="../../imagens/Personas/joaopedro.jpeg" width = "100"/> |
 | Nome         | João Pedro |
 | Idade        | 22 anos |
 | Profissão    | Estudante de Enfermagem |
@@ -62,7 +62,7 @@ Qual a maior qualidade da empresa x?
 
 |              | Persona                                                                                         |
 | ------------ | ----------------------------------------------------------------------------------------------- |
-| Foto         | <img alt = "Gabriela" src="imagens/Personas/gabriela.jpg" width = "100"/>         |
+| Foto         | <img alt = "Gabriela" src="../../imagens/Personas/gabriela.jpg" width = "100"/>         |
 | Nome         | Gabriela |
 | Idade        | 29 |
 | Profissão    | Educadora física |
@@ -77,7 +77,7 @@ Qual a maior qualidade da empresa x?
 
 |              | Persona                                                                                         |
 | ------------ | ----------------------------------------------------------------------------------------------- |
-| Foto         | <img alt = "Maria Aparecida" src="imagens/Personas/mariaaparecida.jpg" width = "100"/>                |
+| Foto         | <img alt = "Maria Aparecida" src="../../imagens/Personas/mariaaparecida.jpg" width = "100"/>                |
 | Nome         | Maria Aparecida |
 | Idade        | 52 anos |
 | Profissão    | Dona de casa |
@@ -92,7 +92,7 @@ Qual a maior qualidade da empresa x?
 
 |              | Persona                                                                                         |
 | ------------ | ----------------------------------------------------------------------------------------------- |
-| Foto         | <img alt = "Paulo André" src="imagens/Personas/pauloandre.jpg" width = "100"/>            |
+| Foto         | <img alt = "Paulo André" src="../../imagens/Personas/pauloandre.jpg" width = "100"/>            |
 | Nome         | Paulo André |
 | Idade        | 43 anos |
 | Profissão    | Empresário |

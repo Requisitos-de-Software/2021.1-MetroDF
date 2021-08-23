@@ -10,7 +10,7 @@ Rafael Berto Pereira
 ## Resultado 
 
 ### Story Board 1 - Conheça as Estações
-<img alt = "Story Board 1" src="imagens/fotostoryboard/Storyboard1.jpg" width = "100"/>
+<img alt = "Story Board 1" src="../../imagens/fotostoryboard/Storyboard1.jpg"/>
 
 Número | Requisitos
 ----------- | --------------
@@ -21,7 +21,7 @@ Número | Requisitos
 
 
 ### Story Board 2 - Vai Para Onde?
-<img alt = "Story Board 2" src="imagens/fotostoryboard/Storyboard2.jpg" width = "100"/>
+<img alt = "Story Board 2" src="../../imagens/fotostoryboard/Storyboard2.jpg"/>
 
 Número | Requisitos
 ----------- | --------------
