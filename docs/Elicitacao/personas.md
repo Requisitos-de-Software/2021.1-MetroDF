@@ -6,36 +6,43 @@ Persona é um personagem semi fictício, baseado em dados e comportamentos reais
 O objetivo é criar um perfil que sintetize as principais características dos clientes para que a marca consiga criar estratégias alinhadas ao seu público e capazes de atender suas demandas.
 Para criar a persona, é preciso pesquisar: quem são os seus clientes, com o que trabalham, o que fazem durante o dia, como se informam, quais são suas maiores necessidades? Assim, a persona se embasa em dados, não em suposições da equipe de marketing.
 <br>
+
 É interessante criar vários tipos de persona, por exemplo:
 Persona primária (alvo principal)
 Persona secundária
 Anti-Persona (oposto do alvo principal)
 <br>
+
 Algumas perguntas a serem feitas para definirmos as personas são:
 #### Demográfica
 Qual seu gênero? Idade? Cidade? Escolaridade?
 <br>
+
 #### Pessoal/profissional
 Como é sua rotina?
 Quais são suas principais responsabilidades?
 Quais são seus principais objetivos e obstáculos para atingi-los?
 <br>
+
 #### Consumo de conteúdo
 Quais redes sociais você usa?
 Como você se mantém informado?
 Como você aprende novas habilidades?
 Quais assuntos você mais gosta de acompanhar?
 <br>
+
 #### Hábitos de compra
 Quais marcas você costuma usar?
 Como você se informa sobre marcas e produtos? Onde costuma comprar?
 Em quais canais você prefere interagir com marcas?
 <br>
+
 #### Relação com a empresa
 O que te levou a procurar as soluções da empresa x?
 Como a empresa x te ajuda a solucionar seus desafios?
 Qual a maior qualidade da empresa x?
 <br>
+
 ## Personas do Projeto
 ### Primera Persona (Primária)
 
@@ -99,6 +106,7 @@ Qual a maior qualidade da empresa x?
 
 ## Referências
 <br>
+
 https://medium.com/autodidata/design-ux-539f60019827
 https://rockcontent.com/br/blog/personas/
 Livro: Engenharia de Requisitos - Sheila Reinehr
