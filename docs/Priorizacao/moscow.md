@@ -34,6 +34,34 @@ A técnica necessita que o time tenha uma boa familiaridade com as característi
 <br>
 
 <img alt = "Método MoSCoW" src="../../imagens/moscow.png"/>
+<br>
+
+### Aplicando no nosso Projeto:
+
+| Número | Requisito                                                  | Prioridade |
+| ------ | ---------------------------------------------------------- | ---------- |
+| 1      | O usuário deve ser capaz de visualizar notícias  | Could
+| 2      | O usuário deve ser capaz de visualizar horário dos trens   | Must
+| 3      | O usuário deve ser capaz de atualizar horário dos trens  | Must
+| 4      | O usuário deve ser capaz de falar com a ouvidoria | Must
+| 5      | O usuário deve ser capaz de recarregar cartão do metrô  | Could
+| 6      | O usuário deve ser capaz de visualizar o mapa da linha do metrô  | Must
+| 7      | O usuário deve ser capaz de se cadastrar | Could
+| 8      | O usuário deve ser capaz de realizar login em sua conta cadastrada | Should
+| 9      | O usuário deve ser capaz de visualizar o horário de funcionamento das estações  | Must
+| 10     | O usuário deve ser capaz de visualizar o tempo de chegada dos trens até a estação  | Must
+| 11     | O usuário deve ser capaz de visualizar a distância até as estações  | Should
+| 12     | O usuário deve ser capaz de favoritar horário dos trens  | Should
+| 13     | O usuário deve ser capaz de visualizar os serviços disponíveis em cada estações  | Should
+| 14     | O usuário deve ser capaz de filtrar estações de acordo com o serviços disponibilizados  | Could
+| 15     | O sistema deverá iniciar rapidamente  | Must
+| 16     | O sistema deverá manter os dados dos usuário de forma segura | Must
+| 17     | O sistema deverá apresentar opções de acessibilidade  | Should
+| 18     | O sistema deverá apresentar um design intuitivo  | Should
+| 19     | O sistema deverá executar em qualquer plataforma mobile | Must
+| 20     | O sistema deverá suportar grandes quantidades de usuários simultaneamente | Could
+| 21     | O sistema deverá responder rapidamente  | Must
+<br>
 
 ## Referências
 <br>
@@ -50,5 +78,6 @@ Livro: Engenharia de Requisitos - Carlos Vazquer e Guilherme Simões
 | Data       | Versão    | Descrição                                          | Autores          | Revisor          |
 | ---------- | --------- | ---------------------------------------------      | ---------------- | ---------------- |
 | 19/08/2021 | 0.1       | Criação do documento                               | Felipe Correia   |                  |
+| 21/08/2021 | 0.2       | Piorização dos requisitos                          | Felipe Correia   |                  |
 
 
