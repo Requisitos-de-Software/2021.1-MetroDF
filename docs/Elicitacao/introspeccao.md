@@ -18,8 +18,10 @@ A introspecção é uma técnica de elicitação na qual os envolvidos se coloca
 | 10 | O usuário deve ser capaz de selecionar estações favoritas para que seja notificado quanto às suas situações |
 
 
-## Histórico de Versões
+## Referências 
+SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
 
+## Histórico de Versões
 | Data       | Versão | Descrição                                       | Autores                       | Revisor          |
 | ---------- | ------ | ---------------------------------------------   | ----------------              | ---------------- |
 | 19/08/2021 |  0.1   | Criação do documento                            | João Victor Oliveira  |                  |
