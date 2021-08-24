@@ -39,14 +39,16 @@ A técnica necessita que o time tenha uma boa familiaridade com as característi
 <br>
 
 https://rockcontent.com/br/blog/metodo-moscow/
+
 Livro: Engenharia de Requisitos - Sheila Reinehr
+
 Livro: Engenharia de Requisitos - Carlos Vazquer e Guilherme Simões
 
 
 ## Histórico de Versões
 
-| Data     | Versão | Descrição                                        | Autores        | Revisor          |
-| ---------- | --------- | --------------------------------------------- | ---------------- | ---------------- |
-| 19/08/2021 | 0.1 | Criação do documento | Felipe Correia |            |
+| Data       | Versão    | Descrição                                          | Autores          | Revisor          |
+| ---------- | --------- | ---------------------------------------------      | ---------------- | ---------------- |
+| 19/08/2021 | 0.1       | Criação do documento                               | Felipe Correia   |                  |
 
 

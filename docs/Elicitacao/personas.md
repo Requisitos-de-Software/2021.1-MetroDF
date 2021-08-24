@@ -107,8 +107,11 @@ Qual a maior qualidade da empresa x?
 <br>
 
 https://medium.com/autodidata/design-ux-539f60019827
+
 https://rockcontent.com/br/blog/personas/
+
 Livro: Engenharia de Requisitos - Sheila Reinehr
+
 Livro: Engenharia de Requisitos - Carlos Vazquer e Guilherme Simões
 
 ## Histórico de Versões
