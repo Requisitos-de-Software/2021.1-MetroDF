@@ -26,6 +26,7 @@ nav:
       - First Things First: Priorizacao/ftf.md
       - MoSCoW:  Priorizacao/moscow.md
   - Modelagem:
+      - Léxico: Modelagem/lexico.md
       - Especificação Suplementar: Modelagem/especificacao.md
   - Apresentações: Apresentacao/apresentacoes.md
 
