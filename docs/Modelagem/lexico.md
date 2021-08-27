@@ -26,69 +26,69 @@ Cada símbolo é descrito com noção e impacto.
 ### Acessibilidade
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+| Acessibilidade   |  Disponibilidade, Alcançabilidade | O quanto a aplicação é acessível aos diferentes usuários | Usuários com diferentes capacidades e habilidades devem conseguir utilizar as funcionalidades do aplicativo   | Estado |
 
 ### Aplicativo
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+| Aplicativo | Aplicação, App, Programa, Sistema | O próprio aplicativo e suas funcionalidades | O usuário poderá utilizar o aplicativo em seus dispositivos móveis|  Objeto  |
 
 ### Baixar
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|   Baixar   |  Fazer download | Transferir dados de um servidor externo para o dispositivo do usuário| O usuário poderá baixar o aplicativo para dispositivos Android ou IOS  |  Verbo  |
 
 ### Cadastrar
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+| Cadastrar  |  Inscrever, Registrar  | Registrar dados em alguma base de dados | O usuário deve ser capaz de se cadastrar  para se comunicar com a ouvidoria  |  Verbo  |
  
 ### Circulação
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+| Circulação |  Deslocamento, Trânsito, Tráfego, | Movimento contínuo dos trens do metrô | O aplicativo deve mostrar se a circulação dos trens está normal  |  Estado  |
 
 ### Contato
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Contato   |  Informações de contato |  Informações de contato como email, telefone e redes sociais | O usuário deve ser capaz de visualizar as informações  de contato do metrô|  Objeto |
 
 ### Encerrar sessão
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  | 
+|  Encerrar sessão   |  Logout, Sair | Retirada dos privilégios que o login concede  | O usuário deve ser capaz de encerrar sua sessão|  Verbo  | 
 
 ### Entrar
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Entrar    |  Iniciar sessão, Login | Entrar na conta cadastrada e obter os privilégios de usuário com login | O usuário deve ser capaz de entrar em uma sessão com sua conta cadastrada |  Verbo  |
 
-### Estações
+### Estação
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  | 
+|  Estação   |  Parada | Estações do metrô onde param os trens | O usuário deve ser capaz de visualizar informações sobre as estações do Metrô-DF  |  Objeto | 
 
 
 ### Favoritar
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  | 
+|  Favoritar |  Tornar favorito, Tornar Preferido | O usuário, ao consultar o horário dos trens, tem a opção de favoritar os horários dos trens de uma estação, o que gera uma lista de rápido acesso aos horários dos trens na estações de maior interesse do usuário | O usuário deve poder favoritar painéis com os horários dos trens em determinada estação   |  Verbo  | 
 
 ### Horário
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Horário   |  Escala   | O momento em que um trem do metrô chega a plataforma de uma estação | O usuário deve poder consultar o horários dos trens nas diferentes estações e sentidos  |  Objeto |
 
 ### Listar
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Listar    |  Elencar, Filtrar | Mostrar os resultados em forma de lista a partir de tópico ou categoria específica | O usuário deve poder listar as estações com serviços específicos  |  Verbo  |
 
 
 ### Mapa
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Mapa      |  - | Mapa completo do Metrô-DF | O usuário deve poder visualizar o mapa do Metrô-DF na aba de informações  |  Objeto  |
 
 ### Mensagem
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
@@ -137,7 +137,7 @@ Cada símbolo é descrito com noção e impacto.
 | ---------- | --------- | ----------| ---------------- | ----------------      |
 |  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
 
-### Trens 
+### Trem 
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
 |  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
@@ -155,4 +155,4 @@ SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <<a>h
 | Data       | Versão | Descrição                                     | Autores          | Revisor          |
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 26/08/2021 | 0.1    | Criação do documento, introdução e metodologia| Hérya Rodrigues  |                  |
-
+| 27/08/2021 | 0.2    | Adição dos léxicos 1 à 13                     | Hérya Rodrigues  |                  |
