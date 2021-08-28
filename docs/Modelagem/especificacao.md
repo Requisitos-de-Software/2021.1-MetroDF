@@ -13,13 +13,13 @@
 <p align="justify">Para a elaboração deste documento, a equipe utilizou o método FURPS+ e o documento de <a href="http://www.metro.df.gov.br/?page_id=40565">Política de Privacidade do Aplicativo Metrô-DF</a>.</p>
 
 ## FURPS+
-<p align="justify">O FURPS+ é um método de classificação de requisitos que pode ser utilizado para orientar o documento de especificação suplementar. O nome é um acrônimo para <i><b>F</b>uncionality, <b>U</b>sability, <b>R</b>eliability, <b>P</b>erformance e <b>S</b>uportability.</i></p>
+<p align="justify">O FURPS+ é um método de classificação de requisitos que pode ser utilizado para orientar o documento de especificação suplementar. O nome é um acrônimo para <i><b>F</b>unctionality, <b>U</b>sability, <b>R</b>eliability, <b>P</b>erformance e <b>S</b>upportability.</i></p>
 
-* <i><b>F</b>uncionality</i> - Funcionalidade: refere-se aos aspectos funcionais do software, ou seja, seu  conjunto de recursos e capacidades, suas funções e a segurança geral do sistema.
+* <i><b>F</b>unctionality</i> - Funcionalidade: refere-se aos aspectos funcionais do software, ou seja, seu  conjunto de recursos e capacidades, suas funções e a segurança geral do sistema.
 * <i><b>U</b>sability </i> - Usabilidade: refere-se às questões humanas, a facilidade do usuário ao realizar suas demandas utilizando o sistema. Engloba fatores como estética, ajuda, documentação, consistência e padrões.
 * <i><b>R</b>eliability </i> - Confiabilidade: refere-se a integridade, conformidade e interoperabilidade do software. É avaliada a partir da medição da frequência e gravidade das falhas, a precisão dos resultados de saída, a capacidade de recuperação de falhas e a previsibilidade do programa.
 * <i><b>P</b>erformance</i> - Desempenho: refere-se a quantidade de trabalho útil realizado por um sistema. Pode ser estimado em termos de precisão, eficiência e velocidade de execução das instruções do sistema.
-* <i><b>S</b>uportability </i> - Suportabilidade: refere-se a facilidade de suporte. Engloba características como estabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade e localizabilidade.
+* <i><b>S</b>upportability </i> - Suportabilidade: refere-se a facilidade de suporte. Engloba características como estabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade e localizabilidade.
 <p align="justify">O "+" no acrônimo refere-se a outros aspectos que podem ser englobados, mas que não estão presentes nas outras letras do acrônimo.</p>
 
 ## Funcionalidade
