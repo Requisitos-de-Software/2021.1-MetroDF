@@ -125,7 +125,7 @@ Cada símbolo é descrito com noção e impacto.
 ### Situação
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Situação  | Estado | Visão de qual a situaçõ atual o metrô se encontra  | O usuário deve ser capaz de visualizar o estado atual do Metrô-DF       |  Objeto/Estado/Verbo  |
+|  Situação  | Estado | Visão de qual a situaçõ atual o metrô se encontra  | O usuário deve ser capaz de visualizar o estado atual do Metrô-DF       |  Estado |
 
 ### Tempo real
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
