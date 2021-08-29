@@ -775,14 +775,31 @@
                 
                 <h1 id="caso-de-uso">Caso de uso</h1>
 <h2 id="o-que-sao-casos-de-uso">O que são Casos de Uso?</h2>
-<p>De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricardo Pimentel,  caso de uso é “é uma sequência de transações executadas por um sistema, que produz um resultado mensurável de valores para um ator em particular” (p, 14). Os substantivos são usados apenas para definir atributos. Deve-se tomar cuidado para responder às seguintes perguntas: 
-* “Quais são as tarefas de cada ator?”; 
-* “Algum ator criará, armazenará, mudará, removerá ou lerá informação do sistema?”; 
-* “Que casos de uso criarão, armazenarão, mudarão, removerão ou lerão esta informação?”; * “Algum ator precisará informar o sistema a respeito de mudanças externas repentinas?”; 
-* “Algum ator necessita ser informado a respeito de certas ocorrências no sistema?”; 
-* “Que casos de uso suportarão ou manterão o sistema?”; 
-* “Todas as necessidades funcionais podem ser executadas pelos dos casos de uso?” 
+<p>De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricardo Pimentel,  caso de uso é “é uma sequência de transações executadas por um sistema, que produz um resultado mensurável de valores para um ator em particular” (p, 14). Os substantivos são usados apenas para definir atributos. Deve-se tomar cuidado para responder às seguintes perguntas:</p>
+<ul>
+<li>
+<p>“Quais são as tarefas de cada ator?”; </p>
+</li>
+<li>
+<p>“Algum ator criará, armazenará, mudará, removerá ou lerá informação do sistema?”; </p>
+</li>
+<li>
+<p>“Que casos de uso criarão, armazenarão, mudarão, removerão ou lerão esta informação?”; </p>
+</li>
+<li>
+<p>“Algum ator precisará informar o sistema a respeito de mudanças externas repentinas?”;</p>
+</li>
+<li>
+<p>“Algum ator necessita ser informado a respeito de certas ocorrências no sistema?”; </p>
+</li>
+<li>
+<p>“Que casos de uso suportarão ou manterão o sistema?”; </p>
+</li>
+<li>
+<p>“Todas as necessidades funcionais podem ser executadas pelos dos casos de uso?” 
 <br></p>
+</li>
+</ul>
 <h2 id="para-que-serve">Para que serve?</h2>
 <p>Casos de uso servem para fornecer algo de valor para um ator. Por exemplo: “a Secretaria deve incluir cursos, eliminar cursos e modificar cursos. Três casos de uso ou um único? Aqui novamente, deveria ser feito um caso de uso - a manutenção de currículo, já que a funcionalidade é iniciada pelo mesmo ator (a Secretaria) e trata com as mesmas entidades no sistema” (p. 15)
 <br></p>
@@ -803,10 +820,12 @@
 <p>Atores: bonecos palito, representando as pessoas que realmente implementam os casos de uso. Temos dois tipos de atores: o ator ativo que é quem inicia/dispara a ação do caso de uso e o ator passivo que é quem reage a uma provocação de um caso de uso</p>
 </li>
 <li>
-<p>Associações: uma linha entre atores e casos de uso. Nos diagramas complexos, é importante saber quais atores estão associados a quais casos de uso. Tendo 3 tipos de associação sendo elas: 
-&lt;<include>&gt; - Muitos casos de uso podem compartilhar pedaços de pequenas funcionalidades. Esta funcionalidade é colocada em separado em outro caso de uso ao invés de ser documentada em cada caso de uso que precisa dela. Relacionamentos de &lt;&gt; são criados entre um novo caso de uso e qualquer outro caso de uso que utilize esta funcionalidade.
-&lt;<extend>&gt; - Um relacionamento de "extend" é usado para mostrar: comportamento opcional, comportamento que somente é executado sobre determinadas condições, como o disparo de 20 um alarme, muitos diferentes caminhos que podem ser executados de acordo com uma seleção feita por um ator.
-generalização - Uma generalização entre um caso de uso C e um caso de uso D indica que C é uma especialização de D. Este relacionamento é representado por uma seta de generalização partindo de D para C. Pode ser representado, também, um tipo de relacionamento entre atores. Este relacionamento é o de generalização. Uma generalização de um ator A para um ator B indica que A pode se comunicar com os mesmos casos de uso que B.</p>
+<p>Associações: uma linha entre atores e casos de uso. Nos diagramas complexos, é importante saber quais atores estão associados a quais casos de uso. Tendo 3 tipos de associação sendo elas: </p>
+</li>
+<li>include - Muitos casos de uso podem compartilhar pedaços de pequenas funcionalidades. Esta funcionalidade é colocada em separado em outro caso de uso ao invés de ser documentada em cada caso de uso que precisa dela. Relacionamentos de &lt;&gt; são criados entre um novo caso de uso e qualquer outro caso de uso que utilize esta funcionalidade.</li>
+<li>extend- Um relacionamento de "extend" é usado para mostrar: comportamento opcional, comportamento que somente é executado sobre determinadas condições, como o disparo de 20 um alarme, muitos diferentes caminhos que podem ser executados de acordo com uma seleção feita por um ator.</li>
+<li>
+<p>generalização - Uma generalização entre um caso de uso C e um caso de uso D indica que C é uma especialização de D. Este relacionamento é representado por uma seta de generalização partindo de D para C. Pode ser representado, também, um tipo de relacionamento entre atores. Este relacionamento é o de generalização. Uma generalização de um ator A para um ator B indica que A pode se comunicar com os mesmos casos de uso que B.</p>
 </li>
 <li>
 <p>Caixa de limite do sistema: caixa que define um escopo do sistema para os casos de uso. Todos os casos de uso fora da caixa são considerados fora do escopo do sistema.
