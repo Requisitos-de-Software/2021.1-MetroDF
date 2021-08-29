@@ -156,4 +156,4 @@ SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <<a>h
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 26/08/2021 | 0.1    | Criação do documento, introdução e metodologia| Hérya Rodrigues  |                  |
 | 27/08/2021 | 0.2    | Adição dos léxicos 1 à 13                     | Hérya Rodrigues  |                  |
-| 29/08/2021 | 0.3    | Adição dos léxicos 14 à 24                    | Felipe Agustini  |                  |
+| 29/08/2021 | 0.3    | Adição dos léxicos 14 à 23                    | Felipe Agustini  |                  |
