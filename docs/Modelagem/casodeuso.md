@@ -35,14 +35,15 @@ Na linguagem de modelagem unificada (UML), o diagrama de caso de uso resume os d
 
 ## Símbolos e notação no diagrama de caso de uso
 A notação do diagrama de caso de uso é bastante objetiva e não envolve a mesma quantidade de símbolos de outros diagramas UML. Veja todas as formas que você encontra no Lucidchart:
+
 * Caso de uso: formato oval na horizontal e que representam os diferentes usos que um usuário pode ter.
 
 * Atores: bonecos palito, representando as pessoas que realmente implementam os casos de uso. Temos dois tipos de atores: o ator ativo que é quem inicia/dispara a ação do caso de uso e o ator passivo que é quem reage a uma provocação de um caso de uso
 
 * Associações: uma linha entre atores e casos de uso. Nos diagramas complexos, é importante saber quais atores estão associados a quais casos de uso. Tendo 3 tipos de associação sendo elas: 
-	- include - Muitos casos de uso podem compartilhar pedaços de pequenas funcionalidades. Esta funcionalidade é colocada em separado em outro caso de uso ao invés de ser documentada em cada caso de uso que precisa dela. Relacionamentos de <> são criados entre um novo caso de uso e qualquer outro caso de uso que utilize esta funcionalidade.
-	- extend- Um relacionamento de "extend" é usado para mostrar: comportamento opcional, comportamento que somente é executado sobre determinadas condições, como o disparo de 20 um alarme, muitos diferentes caminhos que podem ser executados de acordo com uma seleção feita por um ator.
-	- generalização - Uma generalização entre um caso de uso C e um caso de uso D indica que C é uma especialização de D. Este relacionamento é representado por uma seta de generalização partindo de D para C. Pode ser representado, também, um tipo de relacionamento entre atores. Este relacionamento é o de generalização. Uma generalização de um ator A para um ator B indica que A pode se comunicar com os mesmos casos de uso que B.
+	- Inclusão -> Na modelagem UML, um relacionamento de inclusão é aquele no qual um caso de uso (o caso de uso base) inclui a funcionalidade de outro caso de uso (o caso de uso de inclusão). O relacionamento de inclusão suporta a reutilização da funcionalidade em um modelo de caso de uso.
+	- Extensão -> Na modelagem UML, é possível utilizar um relacionamento de extensão para especificar que um caso de uso (extensão) estende o comportamento de outro caso de uso (base). Esse tipo de relacionamento revela detalhes sobre um sistema ou aplicativo que normalmente estão ocultos em um caso de uso.
+	- Generalização -> Na modelagem UML, um relacionamento de generalização é aquele no qual um elemento de modelo (o filho) tem como base outro elemento de modelo (o pai). Os relacionamentos de generalização são utilizados em diagramas de classe, componente, implementação e caso de uso para indicar que o filho recebe todos os atributos, operações e relacionamentos definidos no pai.
 
 * Caixa de limite do sistema: caixa que define um escopo do sistema para os casos de uso. Todos os casos de uso fora da caixa são considerados fora do escopo do sistema.
 <br>
