@@ -1,12 +1,20 @@
 # Caso de uso
 
 ## O que são Casos de Uso?
-De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricardo Pimentel,  caso de uso é “é uma sequência de transações executadas por um sistema, que produz um resultado mensurável de valores para um ator em particular” (p, 14). Os substantivos são usados apenas para definir atributos. Deve-se tomar cuidado para responder às seguintes perguntas: 
+De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricardo Pimentel,  caso de uso é “é uma sequência de transações executadas por um sistema, que produz um resultado mensurável de valores para um ator em particular” (p, 14). Os substantivos são usados apenas para definir atributos. Deve-se tomar cuidado para responder às seguintes perguntas:
+
 * “Quais são as tarefas de cada ator?”; 
+
 * “Algum ator criará, armazenará, mudará, removerá ou lerá informação do sistema?”; 
-* “Que casos de uso criarão, armazenarão, mudarão, removerão ou lerão esta informação?”; * “Algum ator precisará informar o sistema a respeito de mudanças externas repentinas?”; 
+
+* “Que casos de uso criarão, armazenarão, mudarão, removerão ou lerão esta informação?”; 
+
+* “Algum ator precisará informar o sistema a respeito de mudanças externas repentinas?”;
+
 * “Algum ator necessita ser informado a respeito de certas ocorrências no sistema?”; 
+
 * “Que casos de uso suportarão ou manterão o sistema?”; 
+
 * “Todas as necessidades funcionais podem ser executadas pelos dos casos de uso?” 
 <br>
 
@@ -32,9 +40,9 @@ A notação do diagrama de caso de uso é bastante objetiva e não envolve a mes
 * Atores: bonecos palito, representando as pessoas que realmente implementam os casos de uso. Temos dois tipos de atores: o ator ativo que é quem inicia/dispara a ação do caso de uso e o ator passivo que é quem reage a uma provocação de um caso de uso
 
 * Associações: uma linha entre atores e casos de uso. Nos diagramas complexos, é importante saber quais atores estão associados a quais casos de uso. Tendo 3 tipos de associação sendo elas: 
-<<include>> - Muitos casos de uso podem compartilhar pedaços de pequenas funcionalidades. Esta funcionalidade é colocada em separado em outro caso de uso ao invés de ser documentada em cada caso de uso que precisa dela. Relacionamentos de <> são criados entre um novo caso de uso e qualquer outro caso de uso que utilize esta funcionalidade.
-<<extend>> - Um relacionamento de "extend" é usado para mostrar: comportamento opcional, comportamento que somente é executado sobre determinadas condições, como o disparo de 20 um alarme, muitos diferentes caminhos que podem ser executados de acordo com uma seleção feita por um ator.
-generalização - Uma generalização entre um caso de uso C e um caso de uso D indica que C é uma especialização de D. Este relacionamento é representado por uma seta de generalização partindo de D para C. Pode ser representado, também, um tipo de relacionamento entre atores. Este relacionamento é o de generalização. Uma generalização de um ator A para um ator B indica que A pode se comunicar com os mesmos casos de uso que B.
+- include - Muitos casos de uso podem compartilhar pedaços de pequenas funcionalidades. Esta funcionalidade é colocada em separado em outro caso de uso ao invés de ser documentada em cada caso de uso que precisa dela. Relacionamentos de <> são criados entre um novo caso de uso e qualquer outro caso de uso que utilize esta funcionalidade.
+- extend- Um relacionamento de "extend" é usado para mostrar: comportamento opcional, comportamento que somente é executado sobre determinadas condições, como o disparo de 20 um alarme, muitos diferentes caminhos que podem ser executados de acordo com uma seleção feita por um ator.
+- generalização - Uma generalização entre um caso de uso C e um caso de uso D indica que C é uma especialização de D. Este relacionamento é representado por uma seta de generalização partindo de D para C. Pode ser representado, também, um tipo de relacionamento entre atores. Este relacionamento é o de generalização. Uma generalização de um ator A para um ator B indica que A pode se comunicar com os mesmos casos de uso que B.
 
 * Caixa de limite do sistema: caixa que define um escopo do sistema para os casos de uso. Todos os casos de uso fora da caixa são considerados fora do escopo do sistema.
 <br>

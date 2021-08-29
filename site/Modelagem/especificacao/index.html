@@ -9,8 +9,8 @@
       
       
       
-      <link rel="shortcut icon" href="../../imagens/logoMetroDF.png">
-      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.0.3">
+      <link rel="icon" href="../../imagens/logoMetroDF.png">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.4">
     
     
       
@@ -18,10 +18,10 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.1655a90d.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.f7f47774.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.7fa14f5b.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
         
           
           
@@ -42,6 +42,8 @@
     
     
       
+
+
     
     
   </head>
@@ -53,8 +55,9 @@
     
     
     <body dir="ltr" data-md-color-scheme="" data-md-color-primary="green" data-md-color-accent="">
-      
   
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -71,11 +74,9 @@
       
     </div>
     
-      
-
-<header class="md-header" data-md-component="header">
+      <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../.." title="Metrô-DF" class="md-header__button md-logo" aria-label="Metrô-DF">
+    <a href="../.." title="Metrô-DF" class="md-header__button md-logo" aria-label="Metrô-DF" data-md-component="logo">
       
   <img src="../../imagens/logoMetroDF.png" alt="logo">
 
@@ -99,9 +100,8 @@
         </div>
       </div>
     </div>
-    <div class="md-header__options">
-      
-    </div>
+    
+    
     
       <label class="md-header__button md-icon" for="__search">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
@@ -111,14 +111,18 @@
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
       <label class="md-search__icon md-icon" for="__search">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
       </label>
-      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
-      </button>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
     </form>
     <div class="md-search__output">
       <div class="md-search__scrollwrap" data-md-scrollfix>
@@ -153,11 +157,9 @@
                     
 
 
-
-
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../.." title="Metrô-DF" class="md-nav__button md-logo" aria-label="Metrô-DF">
+    <a href="../.." title="Metrô-DF" class="md-nav__button md-logo" aria-label="Metrô-DF" data-md-component="logo">
       
   <img src="../../imagens/logoMetroDF.png" alt="logo">
 
@@ -424,12 +426,25 @@
             
   
   
+  
+    <li class="md-nav__item">
+      <a href="../lexico/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
     
   
   
     <li class="md-nav__item md-nav__item--active">
       
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
       
         
       
@@ -445,6 +460,7 @@
       
         
 <nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
   
   
     
@@ -554,6 +570,18 @@
   
 
           
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../casodeuso/" class="md-nav__link">
+        Casos de uso
+      </a>
+    </li>
+  
+
+          
         </ul>
       </nav>
     </li>
@@ -588,6 +616,7 @@
                   <div class="md-sidebar__inner">
                     
 <nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
   
   
     
@@ -716,14 +745,14 @@
 <p align="justify">Para a elaboração deste documento, a equipe utilizou o método FURPS+ e o documento de <a href="http://www.metro.df.gov.br/?page_id=40565">Política de Privacidade do Aplicativo Metrô-DF</a>.</p>
 
 <h2 id="furps">FURPS+</h2>
-<p align="justify">O FURPS+ é um método de classificação de requisitos que pode ser utilizado para orientar o documento de especificação suplementar. O nome é um acrônimo para <i><b>F</b>uncionality, <b>U</b>sability, <b>R</b>eliability, <b>P</b>erformance e <b>S</b>uportability.</i></p>
+<p align="justify">O FURPS+ é um método de classificação de requisitos que pode ser utilizado para orientar o documento de especificação suplementar. O nome é um acrônimo para <i><b>F</b>unctionality, <b>U</b>sability, <b>R</b>eliability, <b>P</b>erformance e <b>S</b>upportability.</i></p>
 
 <ul>
-<li><i><b>F</b>uncionality</i> - Funcionalidade: refere-se aos aspectos funcionais do software, ou seja, seu  conjunto de recursos e capacidades, suas funções e a segurança geral do sistema.</li>
+<li><i><b>F</b>unctionality</i> - Funcionalidade: refere-se aos aspectos funcionais do software, ou seja, seu  conjunto de recursos e capacidades, suas funções e a segurança geral do sistema.</li>
 <li><i><b>U</b>sability </i> - Usabilidade: refere-se às questões humanas, a facilidade do usuário ao realizar suas demandas utilizando o sistema. Engloba fatores como estética, ajuda, documentação, consistência e padrões.</li>
 <li><i><b>R</b>eliability </i> - Confiabilidade: refere-se a integridade, conformidade e interoperabilidade do software. É avaliada a partir da medição da frequência e gravidade das falhas, a precisão dos resultados de saída, a capacidade de recuperação de falhas e a previsibilidade do programa.</li>
 <li><i><b>P</b>erformance</i> - Desempenho: refere-se a quantidade de trabalho útil realizado por um sistema. Pode ser estimado em termos de precisão, eficiência e velocidade de execução das instruções do sistema.</li>
-<li><i><b>S</b>uportability </i> - Suportabilidade: refere-se a facilidade de suporte. Engloba características como estabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade e localizabilidade.</li>
+<li><i><b>S</b>upportability </i> - Suportabilidade: refere-se a facilidade de suporte. Engloba características como estabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade e localizabilidade.</li>
 </ul>
 <p align="justify">O "+" no acrônimo refere-se a outros aspectos que podem ser englobados, mas que não estão presentes nas outras letras do acrônimo.</p>
 
@@ -878,6 +907,7 @@
             </article>
           </div>
         </div>
+        
       </main>
       
         
@@ -885,7 +915,8 @@
   
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
-        <a href="../../Priorizacao/moscow/" class="md-footer__link md-footer__link--prev" rel="prev">
+        
+        <a href="../lexico/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Léxico" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -894,19 +925,20 @@
               <span class="md-footer__direction">
                 Anterior
               </span>
-              MoSCoW
+              Léxico
             </div>
           </div>
         </a>
       
       
-        <a href="../../Apresentacao/apresentacoes/" class="md-footer__link md-footer__link--next" rel="next">
+        
+        <a href="../casodeuso/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Casos de uso" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Próximo
               </span>
-              Apresentações
+              Casos de uso
             </div>
           </div>
           <div class="md-footer__button md-icon">
@@ -924,6 +956,7 @@
         <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
           Material for MkDocs
         </a>
+        
       </div>
       
     </div>
@@ -934,10 +967,10 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../assets/javascripts/workers/search.fb4a9340.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.709b4209.min.js", "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.ca5457b8.min.js"></script>
+      <script src="../../assets/javascripts/bundle.febc23d1.min.js"></script>
       
     
   </body>
