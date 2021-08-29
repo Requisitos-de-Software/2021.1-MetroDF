@@ -93,54 +93,54 @@ Cada símbolo é descrito com noção e impacto.
 ### Mensagem
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  | 
+|  Mensagem  |     -     | Mensagens recebidas pelo usuário | O usuário deve poder visualizar mensagens enviadas a ele pelo sistema do Metrô-DF        |  Objeto  | 
 
 ### Notícia
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  | 
+|  Notícia   |     -     | Notícias divulgadas pelo Metrô-DF | O usuário deve poder ver notícias divulgadas pelo sistema do Metrô-DF |  Objeto  | 
 
 ### Ouvidoria
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Ouvidoria |     -     | Local em que o usuário pode elogiar, sugerir, solicitar, informar, reclamar ou denunciar | o usuário deve poder elogiar, sugerir, solicitar, informar, reclamar ou denunciar após fazer seu login no sistema de ouvidoria do DF      |  Estado |
 
 ### Perfil
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Perfil    |     -     | Perfil de usuario no sistema de ouvidoria do Distrito federal | O usuário deve poder de acessar seu perfil no sistema de ouvidoria do DF|  Objeto |
 
 
 ### Sentido 
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Sentido   |  Direção  | Visão de qual direção o metrô está se dirigindo | O usuário deve poder ver quais os sentidos que o metrô está operando e seguindo        |  Estado |
 
 ### Serviços 
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Serviços  |     -     | Servições prestados em cada estação do Metrô-DF | O usuário deve poder visualizar quais os serviços presentes em determinada estação de metrô        |  Estado  |
 
 
 ### Situação
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Situação  | Estado | Visão de qual a situaçõ atual o metrô se encontra  | O usuário deve ser capaz de visualizar o estado atual do Metrô-DF       |  Objeto/Estado/Verbo  |
 
 ### Tempo real
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+| Tempo real |     -     | Visão do tempo em que o trem irá demorar a chegar na estação |   O usuário deve ser capaz de visualizar o tempo que o trem irá levar para chegar em sua estação     |  Objeto  |
 
 ### Trajeto
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Trajeto   |  Percurso | Percurso feito pelo trem | o usuário deve poder visualizar o trajeto feito pelos trens do Metrô-DF        |  Objeto |
 
 ### Trem 
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Símbolo   |  Opcional | Denotação | Conotação        |  Objeto/Estado/Verbo  |
+|  Trem      |     -    | Conjunto de vagões que trafegam nas vias do Metrô-DF | O usuário deve poder visualizar os diferentes trens, seus trajetos, suas direções e em qual situação se encontram        |  Objeto  |
 
 
 
@@ -156,3 +156,4 @@ SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <<a>h
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 26/08/2021 | 0.1    | Criação do documento, introdução e metodologia| Hérya Rodrigues  |                  |
 | 27/08/2021 | 0.2    | Adição dos léxicos 1 à 13                     | Hérya Rodrigues  |                  |
+| 29/08/2021 | 0.3    | Adição dos léxicos 14 à 24                    | Felipe Agustini  |                  |
