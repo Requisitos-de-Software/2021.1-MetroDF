@@ -24,4 +24,4 @@ SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07;
 ## Histórico de Versões
 | Data       | Versão | Descrição                                       | Autores                       | Revisor          |
 | ---------- | ------ | ---------------------------------------------   | ----------------              | ---------------- |
-| 19/08/2021 |  0.1   | Criação do documento                            | João Victor Oliveira  |                  |
+| 19/08/2021 |  0.1   | Criação e desenvolvimento do documento | João Victor |                  |
