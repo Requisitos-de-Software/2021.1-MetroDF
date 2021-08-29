@@ -28,6 +28,7 @@ nav:
   - Modelagem:
       - Léxico: Modelagem/lexico.md
       - Especificação Suplementar: Modelagem/especificacao.md
+      - Casos de uso: Modelagem/casodeuso.md
   - Apresentações: Apresentacao/apresentacoes.md
 
 
