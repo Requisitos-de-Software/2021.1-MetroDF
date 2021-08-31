@@ -103,34 +103,34 @@ Cada símbolo é descrito com noção e impacto.
 ### Ouvidoria
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Ouvidoria |     -     | Local em que o usuário pode elogiar, sugerir, solicitar, informar, reclamar ou denunciar | o usuário deve poder elogiar, sugerir, solicitar, informar, reclamar ou denunciar após fazer seu login no sistema de ouvidoria do DF      |  Estado |
+|  Ouvidoria |     -     | Local em que o usuário pode elogiar, sugerir, solicitar, informar, reclamar ou denunciar | o usuário deve poder elogiar, sugerir, solicitar, informar, reclamar ou denunciar após fazer seu login no sistema de ouvidoria do DF      |  Objeto |
 
 ### Perfil
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Perfil    |     -     | Perfil de usuario no sistema de ouvidoria do Distrito federal | O usuário deve poder de acessar seu perfil no sistema de ouvidoria do DF|  Objeto |
+|  Perfil    |     -     | Perfil do usuário no sistema de ouvidoria do Distrito federal | O usuário deve poder de acessar seu perfil no sistema de ouvidoria do DF|  Objeto |
 
 
 ### Sentido 
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Sentido   |  Direção  | Visão de qual direção o metrô está se dirigindo | O usuário deve poder ver quais os sentidos que o metrô está operando e seguindo        |  Estado |
+|  Sentido   |  Direção  | Visão de qual direção o metrô está se dirigindo | O usuário deve poder ver quais os sentidos que o metrô está operando e seguindo        |  Objeto |
 
 ### Serviços 
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Serviços  |     -     | Servições prestados em cada estação do Metrô-DF | O usuário deve poder visualizar quais os serviços presentes em determinada estação de metrô        |  Estado  |
+|  Serviços  |     -     | Serviços prestados em cada estação do Metrô-DF | O usuário deve poder visualizar quais os serviços presentes em determinada estação de metrô        |  Objeto  |
 
 
 ### Situação
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-|  Situação  | Estado | Visão de qual a situaçõ atual o metrô se encontra  | O usuário deve ser capaz de visualizar o estado atual do Metrô-DF       |  Estado |
+|  Situação  | Estado | Visão de qual a situação atual  em que o metrô se encontra  | O usuário deve ser capaz de visualizar o estado atual do Metrô-DF       |  Estado |
 
 ### Tempo real
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
 | ---------- | --------- | ----------| ---------------- | ----------------      |
-| Tempo real |     -     | Visão do tempo em que o trem irá demorar a chegar na estação |   O usuário deve ser capaz de visualizar o tempo que o trem irá levar para chegar em sua estação     |  Objeto  |
+| Tempo real |     Ao vivo     | Visão do tempo em que o trem irá demorar a chegar na estação |   O usuário deve ser capaz de visualizar o tempo que o trem irá levar para chegar em sua estação     |  Estado  |
 
 ### Trajeto
 | Nome       | Sinônimos | Noção     | Impacto          | Classificação         |
@@ -156,4 +156,4 @@ SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 10. Disponível em: <<a>h
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 26/08/2021 | 0.1    | Criação do documento, introdução e metodologia| Hérya Rodrigues  |                  |
 | 27/08/2021 | 0.2    | Adição dos léxicos 1 à 13                     | Hérya Rodrigues  |                  |
-| 29/08/2021 | 0.3    | Adição dos léxicos 14 à 23                    | Felipe Agustini  |                  |
+| 29/08/2021 | 0.3    | Adição dos léxicos 14 à 23                    | Felipe Agustini  |   Hérya          |

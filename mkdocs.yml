@@ -30,6 +30,8 @@ nav:
       - Especificação Suplementar: Modelagem/especificacao.md
       - Casos de uso: Modelagem/casodeuso.md
       - Cenários: Modelagem/cenarios.md
-  - Apresentações: Apresentacao/apresentacoes.md
-
+  - Apresentações: 
+      - Apresentação 1: Apresentacao/apresentacoes.md
+      - Apresentação 2: Apresentacao/apresentacao2.md
+      - Apresentação 3: Apresentacao/apresentacao3.md
 
