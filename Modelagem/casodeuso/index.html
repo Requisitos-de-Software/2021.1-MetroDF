@@ -9,8 +9,8 @@
       
       
       
-      <link rel="shortcut icon" href="../../imagens/logoMetroDF.png">
-      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.0.3">
+      <link rel="icon" href="../../imagens/logoMetroDF.png">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.4">
     
     
       
@@ -18,10 +18,10 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.1655a90d.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.f7f47774.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.7fa14f5b.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
         
           
           
@@ -42,6 +42,8 @@
     
     
       
+
+
     
     
   </head>
@@ -53,8 +55,9 @@
     
     
     <body dir="ltr" data-md-color-scheme="" data-md-color-primary="green" data-md-color-accent="">
-      
   
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -71,11 +74,9 @@
       
     </div>
     
-      
-
-<header class="md-header" data-md-component="header">
+      <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../.." title="Metrô-DF" class="md-header__button md-logo" aria-label="Metrô-DF">
+    <a href="../.." title="Metrô-DF" class="md-header__button md-logo" aria-label="Metrô-DF" data-md-component="logo">
       
   <img src="../../imagens/logoMetroDF.png" alt="logo">
 
@@ -99,9 +100,8 @@
         </div>
       </div>
     </div>
-    <div class="md-header__options">
-      
-    </div>
+    
+    
     
       <label class="md-header__button md-icon" for="__search">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
@@ -111,14 +111,18 @@
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
       <label class="md-search__icon md-icon" for="__search">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
       </label>
-      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
-      </button>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
     </form>
     <div class="md-search__output">
       <div class="md-search__scrollwrap" data-md-scrollfix>
@@ -153,11 +157,9 @@
                     
 
 
-
-
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../.." title="Metrô-DF" class="md-nav__button md-logo" aria-label="Metrô-DF">
+    <a href="../.." title="Metrô-DF" class="md-nav__button md-logo" aria-label="Metrô-DF" data-md-component="logo">
       
   <img src="../../imagens/logoMetroDF.png" alt="logo">
 
@@ -455,6 +457,7 @@
       
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
+      
         
       
       
@@ -469,6 +472,7 @@
       
         
 <nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
   
   
     
@@ -511,13 +515,6 @@
         <li class="md-nav__item">
   <a href="#simbolos-e-notacao-no-diagrama-de-caso-de-uso" class="md-nav__link">
     Símbolos e notação no diagrama de caso de uso
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#participantes" class="md-nav__link">
-    Participantes
   </a>
   
 </li>
@@ -698,6 +695,7 @@
 <nav class="md-nav md-nav--secondary" aria-label="Índice">
   
   
+  
     
   
   
@@ -738,13 +736,6 @@
         <li class="md-nav__item">
   <a href="#simbolos-e-notacao-no-diagrama-de-caso-de-uso" class="md-nav__link">
     Símbolos e notação no diagrama de caso de uso
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#participantes" class="md-nav__link">
-    Participantes
   </a>
   
 </li>
@@ -892,13 +883,11 @@
 <br></p>
 </li>
 </ul>
-<h2 id="participantes">Participantes</h2>
-<p>Rafael Berto Pereira e Felipe Correia
-<br></p>
 <h2 id="diagrama-de-casos-de-uso">Diagrama de Casos de Uso</h2>
 <p><img alt = "Diagrama de caso de uso" src="../../imagens/casodeuso.jpeg"/></p>
-<p>(figura 1)</p>
-<p>(Produzido por Rafael e Felipe no site &lt; https://lucid.app&gt;)</p>
+<h6 align = "center">(Diagram de caso de uso)</h6>
+<h6 align = "center">(Produzido por Rafael e Felipe no site < https://lucid.app>)</h6>
+
 <h2 id="especificacao-dos-casos-de-uso">Especificação dos Casos de Uso</h2>
 <p>De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricardo Pimentel, Uma especificação dos casos de uso é uma forma de documentar cada caso de uso descrevendo o comportamento de cada um. Este comportamento é descrito em um fluxo que será apresentado abaixo.</p>
 <h3 id="1-visualizar-horario-de-funcionamento-do-metro">1) Visualizar horário de funcionamento do metrô</h3>
@@ -1173,6 +1162,7 @@ Slide: Milene Serrano e Maurício Serrano. Requisitos – Aula 13</p>
             </article>
           </div>
         </div>
+        
       </main>
       
         
@@ -1180,7 +1170,8 @@ Slide: Milene Serrano e Maurício Serrano. Requisitos – Aula 13</p>
   
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
-        <a href="../especificacao/" class="md-footer__link md-footer__link--prev" rel="prev">
+        
+        <a href="../especificacao/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Especificação Suplementar" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -1195,7 +1186,8 @@ Slide: Milene Serrano e Maurício Serrano. Requisitos – Aula 13</p>
         </a>
       
       
-        <a href="../cenarios/" class="md-footer__link md-footer__link--next" rel="next">
+        
+        <a href="../cenarios/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Cenários" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
@@ -1219,6 +1211,7 @@ Slide: Milene Serrano e Maurício Serrano. Requisitos – Aula 13</p>
         <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
           Material for MkDocs
         </a>
+        
       </div>
       
     </div>
@@ -1229,10 +1222,10 @@ Slide: Milene Serrano e Maurício Serrano. Requisitos – Aula 13</p>
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../assets/javascripts/workers/search.fb4a9340.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.709b4209.min.js", "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.ca5457b8.min.js"></script>
+      <script src="../../assets/javascripts/bundle.febc23d1.min.js"></script>
       
     
   </body>
