@@ -48,17 +48,13 @@ A notação do diagrama de caso de uso é bastante objetiva e não envolve a mes
 * Caixa de limite do sistema: caixa que define um escopo do sistema para os casos de uso. Todos os casos de uso fora da caixa são considerados fora do escopo do sistema.
 <br>
 
-## Participantes
-Rafael Berto Pereira e Felipe Correia
-<br>
 
 ## Diagrama de Casos de Uso
 
 <img alt = "Diagrama de caso de uso" src="../../imagens/casodeuso.jpeg"/>
 
-(figura 1)
-
-(Produzido por Rafael e Felipe no site < https://lucid.app>)
+<h6 align = "center">(Diagram de caso de uso)</h6>
+<h6 align = "center">(Produzido por Rafael e Felipe no site < https://lucid.app>)</h6>
 
 ## Especificação dos Casos de Uso
 De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricardo Pimentel, Uma especificação dos casos de uso é uma forma de documentar cada caso de uso descrevendo o comportamento de cada um. Este comportamento é descrito em um fluxo que será apresentado abaixo.
