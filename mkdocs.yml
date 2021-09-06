@@ -30,6 +30,9 @@ nav:
       - Especificação Suplementar: Modelagem/especificacao.md
       - Casos de uso: Modelagem/casodeuso.md
       - Cenários: Modelagem/cenarios.md
+      - Backlog do Produto: Modelagem/backlog.md
+      - Histórias de Usuário: Modelagem/historias.md
+      - NFR Framework: Modelagem/nfr.md
   - Apresentações: 
       - Apresentação 1: Apresentacao/apresentacoes.md
       - Apresentação 2: Apresentacao/apresentacao2.md

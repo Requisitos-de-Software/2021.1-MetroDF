@@ -6,7 +6,7 @@
 
 | Documento                              | Membro que contribuiu               |
 | -------------------------------------- | ----------------------------------- |
-| Casos de Uso                           |   Felipe Correia, Rafale            |
+| Casos de Uso                           |   Felipe Correia, Rafael            |
 | Cenários                               |   João Victor, Pedro Daniel         |
 | Léxico                                 |   Felipe Agustini, Hérya            |
 | Especificação Suplementar              |   Hérya                             |   
