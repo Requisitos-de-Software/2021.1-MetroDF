@@ -160,6 +160,6 @@ Slide: Milene Serrano e Maurício Serrano. Requisitos – Aula 13
 | 26/08/2021 | 1.0 | Criação do documento                                | Rafael           | Felipe           |     
 | 27/08/2021 | 1.0 | Detalhamento de Casos de Uso                        | Rafael           | Felipe           |        
 | 27/08/2021 | 1.1 | Inclusão do Diagrama de Casos de Uso                | Rafael           | Felipe           |
-| 29/08/2021 | 1.2 | Inclusão dos significados das simbologias           | Felipe           |                  |
-| 29/08/2021 | 1.2 | Explicação do que é um diagrama de casos de uso     | Felipe           |                  |
+| 29/08/2021 | 1.2 | Inclusão dos significados das simbologias           | Felipe           | Rafael                 |
+| 29/08/2021 | 1.2 | Explicação do que é um diagrama de casos de uso     | Felipe           |       Rafael           |
 | 29/08/2021 | 1.3 | Especificação dos casos de uso                      | Felipe e Rafael  |                  |
