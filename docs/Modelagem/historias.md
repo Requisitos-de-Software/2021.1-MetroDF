@@ -41,9 +41,9 @@ Para montarmos nossas histórias de usuários iremos utilizar a seguinte sintaxe
 <br>
 
 ## Referências
-*Livro Engenharia de Requisitos: VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio. Disponível em: <https://plataforma.bvirtual.com.br/Acervo/Publicacao/160193> Acesso em: 2021 set. 08
+* Livro Engenharia de Requisitos: VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio. Disponível em: <https://plataforma.bvirtual.com.br/Acervo/Publicacao/160193> Acesso em: 2021 set. 08
 
-Link: Disponível em <https://www.youtube.com/watch?v=yG6GUqrje1k> Acesso em: 2021 set. 08
+* Link: Disponível em <https://www.youtube.com/watch?v=yG6GUqrje1k> Acesso em: 2021 set. 08
 <br>
 
 ## Histórico de Versões
@@ -53,4 +53,3 @@ Link: Disponível em <https://www.youtube.com/watch?v=yG6GUqrje1k> Acesso em: 20
 | 08/09/2021 | 2.0 | Detalhamento sobre histórioa de Usuários |Rafael| Felipe|
 | 08/09/2021 | 2.1 | Criação das Histórias de Usuários    | Rafael e Felipe  |               |  
 | 08/09/2021 | 2.2 | Adicionou Critérios de Aceitação| Rafael |      |
-  
