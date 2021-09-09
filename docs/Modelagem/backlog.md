@@ -15,12 +15,18 @@
 <p align="justify">"Um épico é uma história de usuário que ainda não foi detalhada, é muito grande ou ainda possui muita incerteza e portanto não pode ser transformada em incremento do produto. O épico deve ser separado em histórias de usuário menores." (SERRANO, Milene, SERRANO, Maurício)</p>
 
 
+## Backlog - Metrô-DF
+
+<img alt = "Tabela backlog" src="../imagens/backlog.png" />
+
+_Tabela 1: Backlog_
+
 ## Referências
 SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 15. Disponível em: <https://aprender3.unb.br/pluginfile.php/993631/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf>. Acesso em: 06 de setembro de 2021.
 
-## Backlog - Metrô-DF
+## Versionamento
 
 | Data       | Versão | Descrição                                       | Autores          | Revisor          |
 | ---------- | ------ | ---------------------------------------------   | ---------------- | ---------------- |
 | 06/09/2021 |  0.1   | Criação do documento e introdução               | Hérya Rodrigues  |                  |
-
+| 09/09/2021 |  0.2   | Adição da tabela do backlog                     | Hérya Rodrigues  |                  |
