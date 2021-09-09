@@ -22,7 +22,7 @@ De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricard
 Casos de uso servem para fornecer algo de valor para um ator. Por exemplo: “a Secretaria deve incluir cursos, eliminar cursos e modificar cursos. Três casos de uso ou um único? Aqui novamente, deveria ser feito um caso de uso - a manutenção de currículo, já que a funcionalidade é iniciada pelo mesmo ator (a Secretaria) e trata com as mesmas entidades no sistema” (p. 15)
 <br>
 
-##Quem são os atores?
+## Quem são os atores?
 De acordo com os slides dos professores Milene Serrano e Maurício Serrano, os atores “podem ser atores humanos– pessoas; ou podem ser sistemas, subsistemas, componentes, chamados atores sistêmicos” (slide 13). Mas, deve-se tomar cuidado para escolher os atores, a identificação dos atores  é feita de uma maneira iterativa - a primeira lista de atores para um sistema raramente constitui a lista final” (apostila aula 11, p. 14).
 <br>
 

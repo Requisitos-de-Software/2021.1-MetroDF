@@ -4,9 +4,6 @@
 <p align="justify"> Storyboard é uma técnica que utiliza imagens ou ilustrações em sequência para contar uma história com o objetivo de ilustrar situações de uso dos requisitos de um sistema ou software. Podem ser em formato de história em quadrinhos, colagens, fotografias, entre outros. 
 Foram produzidas duas histórias que representam formas de como utilizar o app Metro-DF. A partir delas foram elicitados alguns requisitos que serão expostos logo abaixo de cada história. </p>
 
-## Participantes
-Rafael Berto Pereira
-
 ## Resultado 
 
 ### Story Board 1 - Conheça as Estações
