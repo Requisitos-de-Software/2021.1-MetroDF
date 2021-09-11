@@ -61,11 +61,19 @@ Por fim, temos a legenda quanto à satisfação do softgoal:
 
 ![Usabilidade2](../imagens/imagensNFR/NFRUsabilidade2.png)
 
+## Segurança
+
+![Segurança](../imagens/imagensNFR/NFRSegurança.png)
+
+#### Com propagação
+
+![Segurança2](../imagens/imagensNFR/NFRSegurança2.png)
 
 ## Versionamento
 
 
 | Data       | Versão | Descrição                                     | Autores          | Revisor          |
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
-| 11/09/2021 | 0.1    | Criação do documento, introdução e legendas   | Felipe Agustini  |                  |
-| 11/09/2021 | 0.2    | Execução dos diagramas NFR e inserção da documentação   | Pedro Daniel, João Victor  |                  |
+| 11/09/2021 | 0.1    | Criação do documento, introdução e legendas   | Felipe Agustini  |     Pedro Daniel    |
+| 11/09/2021 | 0.2    | Execução dos diagramas NFR e inserção da documentação   | Pedro Daniel, João Victor  | Felipe Agustini  |
+| 11/09/2021 | 0.3    | Execução dos diagramas NFR de seurança   | Felipe Agustini  |                  |
