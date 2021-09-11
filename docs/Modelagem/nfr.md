@@ -21,9 +21,51 @@ Por fim, temos a legenda quanto à satisfação do softgoal:
 
 <img alt = "softgoals" src="../imagens/legenda4.PNG" />
 
+## Confiabilidade
+
+![Confiabilidade](../imagens/imagensNFR/NFRConfiabilidade.png)
+
+#### Com propagação
+
+![Confiabilidade2](../imagens/imagensNFR/NFRConfiabilidade2.png)
+
+## Manutenibilidade
+
+![Manutenibilidade](../imagens/imagensNFR/NFRManutenibilidade.png)
+
+#### Com propagação
+
+![Manutenibilidade2](../imagens/imagensNFR/NFRManutenibilidade2.png)
+
+## Performance
+
+![Performance](../imagens/imagensNFR/NFRPerformance.png)
+
+#### Com propagação
+
+![Performance2](../imagens/imagensNFR/NFRPerformance2.png)
+
+## Portabilidade
+
+![Portabilidade](../imagens/imagensNFR/NFRPortabilidade.png)
+
+#### Com propagação
+
+![Portabilidade2](../imagens/imagensNFR/NFRPortabilidade2.png)
+
+## Usabilidade
+
+![Usabilidade](../imagens/imagensNFR/NFRUsabilidade.png)
+
+#### Com propagação
+
+![Usabilidade2](../imagens/imagensNFR/NFRUsabilidade2.png)
+
+
 ## Versionamento
 
 
 | Data       | Versão | Descrição                                     | Autores          | Revisor          |
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 11/09/2021 | 0.1    | Criação do documento, introdução e legendas   | Felipe Agustini  |                  |
+| 11/09/2021 | 0.2    | Execução dos diagramas NFR e inserção da documentação   | Pedro Daniel, João Victor  |                  |
