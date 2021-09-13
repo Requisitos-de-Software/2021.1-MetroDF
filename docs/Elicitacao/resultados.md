@@ -25,7 +25,7 @@
 | 16     | O usuário deve ser capaz de visualizar detalhes de um trajeto | Personas, Introspecção,  Storyboard, Observação participativa
 | 17     | O usuário deve ser capaz de visualizar o atual preço da passagem  | Introspecção, Observação participativa
 | 18     | O usuário deve ser capaz de executar a maioria das ações no app sem se cadastrar ou realizar login | Introspecção
-| 29     | O usuário deve ser capaz de visualizar a localização das estações | Storyboard, Observação participativa
+| 19     | O usuário deve ser capaz de visualizar a localização das estações | Storyboard, Observação participativa
 | 20     | O usuário deve ser capaz de selecionar a estação em que está ao planejar um trajeto | Storyboard
 | 21     | O usuário deve ser capaz de selecionar para qual estação deseja ir ao planejar um trajeto | Storyboard
 | 22     | O usuário deve ser capaz de poder receber mensagens com notificações  sobre o Metrô-DF| Observação participativa
