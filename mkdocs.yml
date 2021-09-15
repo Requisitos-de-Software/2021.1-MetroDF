@@ -39,6 +39,8 @@ nav:
       - Cenários: Analise/cenarios.md
       - Historias de usuário: Analise/historias.md
       - NFR Framework: Analise/nfr.md
+    - Validação:
+      - Prototipagem: Analise/prototipo.md
   - Apresentações: 
       - Apresentação 1: Apresentacao/apresentacoes.md
       - Apresentação 2: Apresentacao/apresentacao2.md
