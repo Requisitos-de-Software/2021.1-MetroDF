@@ -33,6 +33,12 @@ nav:
       - Backlog do Produto: Modelagem/backlog.md
       - Histórias de Usuário: Modelagem/historias.md
       - NFR Framework: Modelagem/nfr.md
+  - Análise:
+    - Verificação:
+      - MoSCoW: Analise/moscow.md
+      - Cenários: Analise/cenarios.md
+      - Historias de usuário: Analise/historias.md
+      - NFR Framework: Analise/nfr.md
   - Apresentações: 
       - Apresentação 1: Apresentacao/apresentacoes.md
       - Apresentação 2: Apresentacao/apresentacao2.md
