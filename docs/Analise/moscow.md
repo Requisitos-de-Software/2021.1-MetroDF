@@ -7,28 +7,28 @@
 
 ## Checklist
 
-1. Todos os requisitos foram avaliados?
-2. A metodologia foi explicada?
-3. A técnica foi aplicada de forma correta?
-4. Todos os campos estão preenchidos?
-5. O texto é claro?
-6. Os requisitos estão corretos?
-7. Há rastreabilidade dos requisitos?
-8. A ortografia está correta?
+01. Todos os requisitos foram avaliados?
+02. A metodologia foi explicada?
+03. A técnica foi aplicada de forma correta?
+04. Todos os campos estão preenchidos?
+05. O texto é claro?
+06. Os requisitos estão corretos?
+07. Há rastreabilidade dos requisitos?
+08. A ortografia está correta?
 
 
 ## Avaliação
 
 |  Checklist |  MoSCoW | 
 | ---------- | ------  | 
-|     1      |   ✖     |
-|     2      |   ✔     |
-|     3      |   ✔     |
-|     4      |   ✔     |
-|     5      |   ✔     |
-|     6      |   ✖     |
-|     7      |   ✖     |
-|     8      |   ✔     |
+|     01     |   ✖     |
+|     02     |   ✔     |
+|     03     |   ✔     |
+|     04     |   ✔     |
+|     05     |   ✔     |
+|     06     |   ✖     |
+|     07     |   ✖     |
+|     08     |   ✔     |
 
 **Legenda:**
 
@@ -49,4 +49,4 @@ Lista de Verificação da Qualidade de Artefatos - Checklist Ágil. Disponível 
 
 | Data       | Versão | Descrição                                       | Autores          | Revisor          |
 | ---------- | ------ | ---------------------------------------------   | ---------------- | ---------------- |
-| 15/09/2021 |  0.1   | Criação do e elaboração do documento            | Hérya Rodrigues  |                  |
+| 15/09/2021 |  0.1   | Criação e elaboração do documento              | Hérya Rodrigues  |                  |

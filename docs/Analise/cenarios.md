@@ -7,15 +7,15 @@
 
 ## Checklist
 
-1. O título é auto-explicativo?
-2. O objetivo está claro?
-3. Os atores foram listados corretamente?
-4. Os recursos necessários foram listados?
-5. O cenário contém exceções?
-6. O cenário está linkado aos léxicos?
-7. O cenário se aplica corretamente aos requisitos?
-8. Os episódios estão corretos?
-9. Todos os campos estão preenchidos?
+01. O título é auto-explicativo?
+02. O objetivo está claro?
+03. Os atores foram listados corretamente?
+04. Os recursos necessários foram listados?
+05. O cenário contém exceções?
+06. O cenário está linkado aos léxicos?
+07. O cenário se aplica corretamente aos requisitos?
+08. Os episódios estão corretos?
+09. Todos os campos estão preenchidos?
 
 
 
@@ -24,15 +24,15 @@
 
 |  Checklist | Cenário 01 | Cenário 02 | Cenário 03 | Cenário 04 | Cenário 05 |  Cenário 06 | Cenário 07 | Cenário 08 |    
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----------  | ---------- | ---------- | 
-|     1      |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔             
-|     2      |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔       
-|     3      |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔       
-|     4      |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔       
-|     5      |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔       
-|     6      |     ✖      |     ✖      |     ✖      |     ✖      |     ✖      |     ✖       |     ✖      |     ✖       
-|     7      |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔   
-|     8      |     ✖      |     ✖      |     ✔      |     ✖      |     ✖      |     ✖       |     ✖      |     ✖
-|     9      |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔     |
+|     01     |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔             
+|     02     |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔       
+|     03     |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔       
+|     04     |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔       
+|     05     |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔       
+|     06     |     ✖      |     ✖      |     ✖      |     ✖      |     ✖      |     ✖       |     ✖      |     ✖       
+|     07     |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔   
+|     08     |     ✖      |     ✖      |     ✔      |     ✖      |     ✖      |     ✖       |     ✖      |     ✖
+|     09     |     ✔      |     ✔      |     ✔      |     ✔      |     ✔      |      ✔      |     ✔      |     ✔     |
 
 
 **Legenda:**
@@ -55,4 +55,4 @@ Lista de Verificação da Qualidade de Artefatos - Checklist Ágil. Disponível 
 
 | Data       | Versão | Descrição                                       | Autores          | Revisor          |
 | ---------- | ------ | ---------------------------------------------   | ---------------- | ---------------- |
-| 15/09/2021 |  0.1   | Criação do e elaboração do documento            | Hérya Rodrigues  |                  |
+| 15/09/2021 |  0.1   | Criação e elaboração do documento               | Hérya Rodrigues  |                  |
