@@ -1,7 +1,7 @@
 # Verificação - Introspecção
 
 ## Contexto
-* Documento avaliado: <a href="https://requisitos-de-software.github.io/2021.1-MetroDF/Elicitacao/introspeccao/">Brainstorming</a>
+* Documento avaliado: <a href="https://requisitos-de-software.github.io/2021.1-MetroDF/Elicitacao/introspeccao/">Introspecção</a>
 * Técnica utilizada: Inspeção com Leitura Check-List
 * Inspetor: Felipe Correia
 
