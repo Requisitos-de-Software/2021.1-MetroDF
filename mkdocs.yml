@@ -42,6 +42,10 @@ nav:
       - Brainstorming: Analise/brainstorming.md
       - Introspecção: Analise/introspeccao.md
       - Observação Participativa: Analise/observacaoparticipativa.md
+      - Especicifação Suplementar: Analise/especificacaosuplementar.md
+      - Rich Picture: Analise/richpicture.md
+      - Personas: Analise/personas.md
+      - Storyboards: Analise/storyboard.md
     - Validação:
       - Prototipagem: Analise/prototipo.md
   - Apresentações: 
