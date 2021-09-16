@@ -39,6 +39,9 @@ nav:
       - Cenários: Analise/cenarios.md
       - Historias de usuário: Analise/historias.md
       - NFR Framework: Analise/nfr.md
+      - Brainstorming: brainstorming.md
+      - Introspecção: introspeccao.md
+      - Observação Participativa: observacaoparticipativa.md
     - Validação:
       - Prototipagem: Analise/prototipo.md
   - Apresentações: 
