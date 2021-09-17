@@ -27,11 +27,9 @@ Geralmente, dependendo do dia e horário, as pessoas perdem um bom tempo na fila
 
     
 ## Referências
-* SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2019. 53 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+* SERRANO, Maurício; SERRANO, Milene. Material disponibilizado pelo professor da matéria Requisitos de Software no curso de Engenharia de Software da UnB-FGA. 
 * FIGMA. FIGMA, 2021. Disponível em: https://www.figma.com/. Acesso em: 13 de Setembro de 2021.
-DUOLINGO. 
-
-* Metro-DF, 2019. Disponível em: http://www.metro.df.gov.br/. Acesso em: 24 de Novembro de 2019.
+* Metro-DF. Disponível em: http://www.metro.df.gov.br/. Acesso em: 13 de Setembro de 2021.
 <br>
 
 | Data     | Versão | Descrição                                        | Autores    | Revisor        |
