@@ -1,7 +1,7 @@
 # Verificação - Casos de Uso
 
 ## Contexto
-* Documento avaliado: <a href="[https://requisitos-de-software.github.io/2021.1-MetroDF/Elicitacao/storyboard/">Casos de Uso</a>
+* Documento avaliado: <a href="https://requisitos-de-software.github.io/2021.1-MetroDF/Modelagem/casodeuso/">Casos de Uso</a>
 * Técnica utilizada: Inspeção com Leitura Check-List
 * Inspetor: Pedro Daniel
 
@@ -24,7 +24,7 @@
 
 ## Avaliação
 
-|  Checklist |  Storyboard | 
+|  Checklist |  Casos de Uso | 
 | ---------- | ------  | 
 |     01     |   ✔     |
 |     02     |   ✔     |

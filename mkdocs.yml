@@ -48,6 +48,7 @@ nav:
       - Storyboards: Analise/storyboard.md
       - Backlog do Produto: Analise/backlogdoproduto.md
       - Casos de Uso: Analise/casosdeuso.md
+      - Lexicos: Analise/lexicos.md
     - Validação:
       - Prototipagem: Analise/prototipo.md
       - Informal: Analise/informal.md
