@@ -46,6 +46,8 @@ nav:
       - Rich Picture: Analise/richpicture.md
       - Personas: Analise/personas.md
       - Storyboards: Analise/storyboard.md
+      - Backlog do Produto: Analise/backlogdoproduto.md
+      - Casos de Uso: Analise/casosdeuso.md
     - Validação:
       - Prototipagem: Analise/prototipo.md
       - Informal: Analise/informal.md
