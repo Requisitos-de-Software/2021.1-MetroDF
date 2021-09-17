@@ -14,7 +14,7 @@
 
 ## Avaliação
 
-|  Checklist |  MoSCoW | 
+|  Checklist |  Rich Picture | 
 | ---------- | ------  | 
 |     01     |   ✖     |
 |     02     |   ✖     |

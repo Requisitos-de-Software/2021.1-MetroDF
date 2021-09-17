@@ -15,7 +15,7 @@
 
 ## Avaliação
 
-|  Checklist |  MoSCoW | 
+|  Checklist |  Personas | 
 | ---------- | ------  | 
 |     01     |   ✔     |
 |     02     |   ✔     |

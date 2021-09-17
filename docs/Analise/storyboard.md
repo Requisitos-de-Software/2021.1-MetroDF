@@ -14,7 +14,7 @@
 
 ## Avaliação
 
-|  Checklist |  MoSCoW | 
+|  Checklist |  Storyboard | 
 | ---------- | ------  | 
 |     01     |   ✔     |
 |     02     |   ✔     |

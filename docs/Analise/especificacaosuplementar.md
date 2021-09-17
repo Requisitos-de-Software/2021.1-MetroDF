@@ -19,7 +19,7 @@
 
 ## Avaliação
 
-|  Checklist |  MoSCoW | 
+|  Checklist |  Especificação Suplementar | 
 | ---------- | ------  | 
 |     01     |   ✔     |
 |     02     |   ✔     |
@@ -29,7 +29,7 @@
 |     06     |   ✔     |
 |     07     |   ✔     |
 |     08     |   ✔     |
-|     09     |   ✔     |
+|     09     |   ✖     |
 
 **Legenda:**
 
