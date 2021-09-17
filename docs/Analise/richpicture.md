@@ -28,7 +28,7 @@
 ✖ = NÃO
 
 ## Conclusão
-A documentação de rich pictures necessita de refatoração seguindo a técnica da maneira correta, com a seleção de um resultado final diante da apresentação de esboços pelos integrantes da equipe.
+A documentação de rich pictures necessita de refatoração seguindo a técnica da maneira correta. A atual versão final selecionada pela equipe possui erros que devem ser corrigidos, além disso devem ser apresentadas no documento as versões desenvolvidas por cada integrante.
 
 ## Referências
 
