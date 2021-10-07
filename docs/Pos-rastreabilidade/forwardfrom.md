@@ -37,7 +37,7 @@ Neste modelo, os principais elos de rastreabilidade definidos são:
 
 | ID | Descrição | Origem | Nível | Elo | Telas |
 | -- | --------- | ------ | ----- | --- | ----- |
-| 1   | O usuário deve ser capaz de visualizar notícias | Brainstorming(1), Personas, Observação participativa(12) | Gerencial, Desenvolvimento | Satisfação, Recurso | <img alt = "R1" src="../../imagens/forwardform/R1.png" width = "100"/> |
+| 1   | O usuário deve ser capaz de visualizar notícias | Brainstorming(1), Personas, Observação participativa(12) | Gerencial, Desenvolvimento | Satisfação, Recurso | <img alt = "R1" src="../../imagens/forwardform/R1.png"/> |
 | 2   | O usuário deve ser capaz de visualizar horário dos trens | Brainstorming(2), Personas, Introspecção(4), Observação participativa(11) | Desenvolvimento, Organizacional, Ambiental | Satisfação, Agregação |      |          
 | 3   | O usuário deve ser capaz de atualizar horário dos trens | Brainstorming(3) |      Gerencial, Desenvolvimento, Organizacional| Satisfação  |    |          
 | 4   | O usuário deve ser capaz de falar com a ouvidoria | Brainstorming(4), Observação participativa(8) |  Gerencial, Ambiental, Desenvolvimento  | Satisfação, Agregação  |   |          
@@ -56,7 +56,7 @@ Neste modelo, os principais elos de rastreabilidade definidos são:
 | 17   | O usuário deve ser capaz de visualizar o atual preço da passagem | Introspecção(4), Observação participativa(9) | Gerencial, Desenvolvimento | Recurso |  |          
 | 18   | O usuário deve ser capaz de executar a maioria das ações no app sem se cadastrar ou realizar login |  Introspecção(3) | Desenvolvimento, Organizacional | Satisfação, alocado | Não se aplica |          
 | 19   | O usuário deve ser capaz de visualizar a localização das estações |  Storyboard, Observação participativa(1) | Organizacional, Desenvolvimento | Satisfação |  |          
-| 20  |  O usuário deve ser capaz de selecionar a estação em que está ao planejar um trajeto                | Storyboard | Ambiental, Desenvolvimento | Recurso |  |          
+| 20  |  O usuário deve ser capaz de selecionar a estação em que está ao planejar um trajeto | Storyboard | Ambiental, Desenvolvimento | Recurso |  |          
 | 21 |  O usuário deve ser capaz de selecionar para qual estação deseja ir ao planejar um trajeto |   Storyboard | Ambiental, Desenvolvimento | Recurso |  |          
 | 22 | O usuário deve ser capaz de poder receber mensagens com notificações sobre o Metrô-DF | Observação participativa(13) | Organizacional, Desenvolvimento | Satisfação, Representação |  |          
 
@@ -64,9 +64,10 @@ Neste modelo, os principais elos de rastreabilidade definidos são:
 ### Requisitos Não Funcionais
 
 | ID | Descrição | Origem | Nível | Elos |Telas |
+| -- | --------- | ------ | ----- | --- | ----- |
 | 1   | O sistema deverá iniciar rapidamente | Brainstorming(1) | Desenvolvimento |  Satisfação | Não se aplica |
 | 2   | O sistema deverá manter os dados dos usuário de forma segura  | Brainstorming(2), Personas | Desenvolvimento | Recurso | Não se aplica |
-| 3   | O sistema deverá apresentar opções de acessibilidade| Brainstorming(3)  |   Desenvolvimento    |   Recurso, Responsabilidade | Não se aplica |
+| 3   | O sistema deverá apresentar opções de acessibilidade| Brainstorming(3) |   Desenvolvimento    |   Recurso, Responsabilidade | Não se aplica |
 | 4   | O sistema deverá apresentar um design simples e intuitivo | Brainstorming(4), Personas  | Desenvolvimento | Satisfação, Responsabilidade | Não se aplica | 
 | 5   | O sistema deverá executar em qualquer plataforma mobile | Brainstorming(5)  |  Desenvolvimento | Satisfação, Agregação  | Não se aplica |
 | 6   |O sistema deverá suportar grandes quantidades de usuários simultaneamente | Brainstorming(6) | Desenvolvimento | Satisfação  | Não se aplica |  
