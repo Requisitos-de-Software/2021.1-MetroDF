@@ -36,7 +36,8 @@ Neste modelo, os principais elos de rastreabilidade definidos são:
 ### Requisitos Funcionais
 
 | ID | Descrição | Origem | Nível | Elo | Telas |
-| 1   | O usuário deve ser capaz de visualizar notícias | Brainstorming(1), Personas, Observação participativa(12) | Gerencial, Desenvolvimento | Satisfação, Recurso |    |
+| -- | --------- | ------ | ----- | --- | ----- |
+| 1   | O usuário deve ser capaz de visualizar notícias | Brainstorming(1), Personas, Observação participativa(12) | Gerencial, Desenvolvimento | Satisfação, Recurso | <img alt = "R1" src="../../imagens/forwardform/R1.png" width = "100"/> |
 | 2   | O usuário deve ser capaz de visualizar horário dos trens | Brainstorming(2), Personas, Introspecção(4), Observação participativa(11) | Desenvolvimento, Organizacional, Ambiental | Satisfação, Agregação |      |          
 | 3   | O usuário deve ser capaz de atualizar horário dos trens | Brainstorming(3) |      Gerencial, Desenvolvimento, Organizacional| Satisfação  |    |          
 | 4   | O usuário deve ser capaz de falar com a ouvidoria | Brainstorming(4), Observação participativa(8) |  Gerencial, Ambiental, Desenvolvimento  | Satisfação, Agregação  |   |          
