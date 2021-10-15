@@ -34,6 +34,9 @@
 ## Conclusão
 É necessário linkar os termos a seus léxicos. Os autores do documento corrigirão todos os problemas encontrados.
 
+## Acompanhamento
+Os erros encontrados foram corrigidos.
+
 
 ## Referências
 
@@ -46,3 +49,6 @@ Lista de Verificação da Qualidade de Artefatos - Checklist Ágil. Disponível 
 | Data       | Versão | Descrição                                       | Autores          | Revisor          |
 | ---------- | ------ | ---------------------------------------------   | ---------------- | ---------------- |
 | 16/09/2021 |  0.1   | Criação e elaboração do documento               | Felipe Correia   |                  |
+| 15/10/2021 |  0.2   | Adição de acompanhamento               | Hérya   |                  |
+
+

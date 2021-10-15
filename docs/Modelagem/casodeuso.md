@@ -59,7 +59,7 @@ A notação do diagrama de caso de uso é bastante objetiva e não envolve a mes
 ## Especificação dos Casos de Uso
 De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricardo Pimentel, Uma especificação dos casos de uso é uma forma de documentar cada caso de uso descrevendo o comportamento de cada um. Este comportamento é descrito em um fluxo que será apresentado abaixo.
 
-
+<span id="caso1"></span> 
 
 ### 1) Visualizar horário de funcionamento do metrô
 <center>
@@ -77,7 +77,7 @@ De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricard
 <h6 align = "center">Tabela 1: Tabela de especialização dos horários de funcionamento.</h6>
 <h6 align = "center">Fonte: Autores</h6>
 
-
+<span id="caso2"></span> 
 ### 2) Fornecer informações  sobre o Metro
 <center>
 
@@ -95,7 +95,7 @@ De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricard
 <h6 align = "center">Fonte: Autores</h6>
 
 
-
+<span id="caso3"></span> 
 ### 3) Visualizar linhas de trens
 <center>
 
@@ -112,6 +112,7 @@ De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricard
 <h6 align = "center">Tabela 3: Tabela de visualização de linhas de metrô.</h6>
 <h6 align = "center">Fonte: Autores</h6>
 
+<span id="caso4"></span> 
 ### 4) Fazer reclamações ou tirar dúvidas
 <center>
 
@@ -128,6 +129,8 @@ De acordo com a apostila “Projeto de Software Usando a UML” de Andrey Ricard
 <h6 align = "center">Tabela 4: Tabela de fazer reclamações ou tirar dúvidas.</h6>
 <h6 align = "center">Fonte: Autores</h6>
 
+
+<span id="caso5"></span> 
 ### 5) Definir um trajeto
 <center>
 
@@ -163,3 +166,4 @@ Slide: Milene Serrano e Maurício Serrano. Requisitos – Aula 13
 | 29/08/2021 | 1.2 | Inclusão dos significados das simbologias           | Felipe           | Rafael                 |
 | 29/08/2021 | 1.2 | Explicação do que é um diagrama de casos de uso     | Felipe           |       Rafael           |
 | 29/08/2021 | 1.3 | Especificação dos casos de uso                      | Felipe e Rafael  |                  |
+| 15/10/2021 | 1.4 | Criação dos links  | Hérya            |                  | 

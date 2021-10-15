@@ -49,6 +49,7 @@ nav:
       - Backlog do Produto: Analise/backlogdoproduto.md
       - Casos de Uso: Analise/casosdeuso.md
       - Lexicos: Analise/lexicos.md
+      - First Things First: Analise/ftf.md
     - Validação:
       - Prototipagem: Analise/prototipo.md
       - Informal: Analise/informal.md

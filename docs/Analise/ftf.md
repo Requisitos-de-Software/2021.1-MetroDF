@@ -39,6 +39,9 @@
 ## Conclusão
 Todos os requisitos foram avaliados e a metodologia foi adequadamente utilizada, mas não há rastreabilidade dos requisitos priorizados.
 
+## Acompanhamento
+Os erros encontrados foram corrigidos.
+
 ## Referências
 
 SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula 23. Disponível em: <https://aprender3.unb.br/pluginfile.php/993660/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em: 15 de setembro de 2021.
@@ -50,3 +53,4 @@ Lista de Verificação da Qualidade de Artefatos - Checklist Ágil. Disponível 
 | Data       | Versão | Descrição                                       | Autores          | Revisor          |
 | ---------- | ------ | ---------------------------------------------   | ---------------- | ---------------- |
 | 18/09/2021 |  0.1   | Criação e elaboração do documento              | Pedro Daniel  |                  |
+| 15/10/2021 |  0.2   | Adição de acompanhamento               | Hérya   |                  |

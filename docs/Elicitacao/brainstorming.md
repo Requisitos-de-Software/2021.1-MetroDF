@@ -11,7 +11,7 @@ Uma sessão de brainstorming busca levantar  livremente as opiniões  dos partic
 
 ### Perguntas guia 
 
-<p align="justify">Barbosa (2010) também recomenda que uma sessão eficiente de brainstorming comece com perguntas que sumarizam o objetivo de entender o que os usuários querem e precisam no produto. Assim, iniciamos a sessão com os seguintes questionamentos:</p>
+<p align="justify">Barbosa (2010) também recomenda que uma sessão eficiente de brainstorming comece com perguntas que sumarizam o objetivo de entender o que os <a href="../../Modelagem/lexico#usuario">usuários</a> querem e precisam no produto. Assim, iniciamos a sessão com os seguintes questionamentos:</p>
 
 * Que tarefas você precisaria ou gostaria de realizar com o app Metrô-DF?
 * Como o sistema deve se comportar?
@@ -24,20 +24,20 @@ Uma sessão de brainstorming busca levantar  livremente as opiniões  dos partic
 
 | Número | Requisito        |
 | ------ | ----------------------- |
-| 1      | O usuário deve ser capaz de visualizar notícias  | 
-| 2      | O usuário deve ser capaz de visualizar horário dos trens   | 
-| 3      | O usuário deve ser capaz de atualizar horário dos trens  | 
-| 4      | O usuário deve ser capaz de falar com a ouvidoria | 
-| 5      | O usuário deve ser capaz de recarregar cartão do metrô  | 
-| 6      | O usuário deve ser capaz de visualizar o mapa da linha do metrô  | 
-| 7      | O usuário deve ser capaz de se cadastrar | 
-| 8      | O usuário deve ser capaz de realizar login em sua conta cadastrada | 
-| 9      | O usuário deve ser capaz de visualizar o horário de funcionamento das estações  | 
-| 10     | O usuário deve ser capaz de visualizar o tempo de chegada dos trens até a estação  | 
-| 11     | O usuário deve ser capaz de visualizar a distância até as estações  | 
-| 12     | O usuário deve ser capaz de favoritar horário dos trens  | 
-| 13     | O usuário deve ser capaz de visualizar os serviços disponíveis em cada estações  | 
-| 14     | O usuário deve ser capaz de filtrar estações de acordo com o serviços disponibilizados  | 
+| 1      | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de visualizar <a href="../../Modelagem/lexico#noticia">notícias</a>  | 
+| 2      | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de visualizar <a href="../../Modelagem/lexico#horario">horário</a> dos <a href="../../Modelagem/lexico#trem">trens</a>   | 
+| 3      | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de atualizar <a href="../../Modelagem/lexico#horario">horário</a> dos <a href="../../Modelagem/lexico#trem">trens</a>  | 
+| 4      | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de falar com a <a href="../../Modelagem/lexico#ouvidoria">ouvidoria</a> | 
+| 5      | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de recarregar cartão do metrô  | 
+| 6      | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de visualizar o <a href="../../Modelagem/lexico#mapa">mapa</a> da linha do metrô  | 
+| 7      | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de se <a href="../../Modelagem/lexico#cadastrar">cadastrar</a> | 
+| 8      | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de realizar <a href="../../Modelagem/lexico#entrar">login</a> em sua conta <a href="../../Modelagem/lexico#cadastrar">cadastrada</a> | 
+| 9      | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de visualizar o <a href="../../Modelagem/lexico#horario">horário</a> de funcionamento das <a href="../../Modelagem/lexico#estacao">estações</a>  | 
+| 10     | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de visualizar o tempo de chegada dos <a href="../../Modelagem/lexico#trem">trens</a> até a <a href="../../Modelagem/lexico#estacao">estação</a>   | 
+| 11     | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de visualizar a distância até as <a href="../../Modelagem/lexico#estacao">estações</a>   | 
+| 12     | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de <a href="../../Modelagem/lexico#favoritar">favoritar</a> <a href="../../Modelagem/lexico#horario"><a href="../../Modelagem/lexico#horario">horário</a></a> dos <a href="../../Modelagem/lexico#trem">trens</a>  | 
+| 13     | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de visualizar os <a href="../../Modelagem/lexico#servicos">serviços</a> disponíveis em cada <a href="../../Modelagem/lexico#estacao">estações</a>  | 
+| 14     | O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de filtrar <a href="../../Modelagem/lexico#estacao">estações</a>  de acordo com o <a href="../../Modelagem/lexico#servicos">serviços</a> disponibilizados  | 
 
 
 
@@ -46,11 +46,11 @@ Uma sessão de brainstorming busca levantar  livremente as opiniões  dos partic
 | Número | Requisito               |
 | ------ | ----------------------- |
 | 1      | O sistema deverá iniciar rapidamente  | 
-| 2      | O sistema deverá manter os dados dos usuário de forma segura | 
-| 3      | O sistema deverá apresentar opções de acessibilidade  | 
+| 2      | O sistema deverá manter os dados dos <a href="../../Modelagem/lexico#usuario">usuários</a> de forma segura | 
+| 3      | O sistema deverá apresentar opções de <a href="../../Modelagem/lexico#acessibilidade">acessibilidade</a>  | 
 | 4      | O sistema deverá apresentar um design intuitivo  | 
 | 5      | O sistema deverá executar em qualquer plataforma mobile | 
-| 6      | O sistema deverá suportar grandes quantidades de usuários simultaneamente | 
+| 6      | O sistema deverá suportar grandes quantidades de <a href="../../Modelagem/lexico#usuario">usuários</a> simultaneamente | 
 | 7      | O sistema deverá responder rapidamente  | 
 
 
@@ -63,3 +63,4 @@ Uma sessão de brainstorming busca levantar  livremente as opiniões  dos partic
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 17/08/2021 | 0.1    | Criação do documento                          | Hérya Rodrigues  |                  |
 | 18/08/2021 | 0.2    | Elaboração do documento                       | Hérya Rodrigues  |                  |
+| 15/10/2021 |  0.2   | Linkagem com léxicos | Hérya|                  |

@@ -2,28 +2,28 @@
 
 ## Introdução
 
-Abordagem utilizada para descrever as situações de uso do sistema pelos seus usuários e os relacionamentos. Na técnica, utiliza-se de abstrações para compreender as interações que ocorrem no sistema e elicitar a parte comportamental do mesmo.
+Abordagem utilizada para descrever as situações de uso do sistema pelos seus <a href="../lexico#usuario">usuários</a> e os relacionamentos. Na técnica, utiliza-se de abstrações para compreender as interações que ocorrem no sistema e elicitar a parte comportamental do mesmo.
 
 ## Cenário 1
 
-| Título | Situação do metrô |
+| Título | <a href="../lexico#situacao">Situação</a> do metrô |
 | ------ | ----------------- |
-| Objetivo | Saber a atual situação do Metrô DF |
-| Contexto | Ocorre em página vinculada à pagina inicial do aplicativo |
-| Atores | Usuário |
-| Recursos | Aplicativo instalado e acesso à internet |
-| Episódios | Usuário deseja saber se a circulação dos trens está normal no sentido Samambaia-Central<br> Usuário deseja saber se a circulação dos trens está normal no sentido Ceilândia-Central |
+| Objetivo | Saber a atual <a href="../lexico#situacao">situação</a> do Metrô DF |
+| Contexto | Ocorre em página vinculada à página inicial do <a href="../lexico#aplicativo">Aplicativo</a> |
+| Atores | <a href="../lexico#usuario">Usuário</a> |
+| Recursos | <a href="../lexico#aplicativo">Aplicativo</a>  instalado e acesso à internet |
+| Episódios | <a href="../lexico#usuario">Usuário</a> deseja saber se a <a href="../lexico#circulacao">circulação</a> dos <a href="../lexico#trem">trens</a> está normal no <a href="../lexico#sentido">sentido</a> Samambaia-Central<br> <a href="../lexico#usuario">Usuário</a> deseja saber se a <a href="../lexico#circulacao">circulação</a> dos <a href="../lexico#trem">trens</a> está normal no <a href="../lexico#sentido">sentido</a> Ceilândia-Central |
 | Exceção | Sem conexão com a internet<br>Sistema fora do ar |
 
 ## Cenário 2
 
-| Título | Horário dos trens |
+| Título | <a href="../lexico#horario">Horário</a>  dos <a href="../lexico#trem">tre</a> |
 | ------ | ----------------- |
-| Objetivo | Saber quando o próximo trem passará na estação de partida rumo à estação de destino |
-| Contexto | Ocorre em página vinculada à pagina inicial do aplicativo, o usuário deve fornecer estações de partida e destino |
-| Atores | Usuário |
-| Recursos | Aplicativo instalado e acesso à internet |
-| Episódios | Usuário na estação de partida ou à caminho da mesma, deseja saber o horário do próximo trem para seu destino |
+| Objetivo | Saber quando o próximo <a href="../lexico#trem">trem</a> passará na <a href="../lexico#estacao">estação</a> de partida rumo à <a href="../lexico#estacao">estação</a> de destino |
+| Contexto | Ocorre em página vinculada à página inicial do <a href="../lexico#aplicativo">Aplicativo</a>, o <a href="../lexico#usuario">Usuário</a> deve fornecer <a href="../lexico#estacao">estações</a> de partida e destino |
+| Atores | <a href="../lexico#usuario">Usuário</a> |
+| Recursos | <a href="../lexico#aplicativo">Aplicativo</a> instalado e acesso à internet |
+| Episódios | <a href="../lexico#usuario">Usuário</a> na <a href="../lexico#estacao">estação</a> de partida ou à caminho da mesma, deseja saber o <a href="../lexico#horario">horário</a>  do próximo <a href="../lexico#trem">trem</a> para seu destino |
 | Exceção | Sem conexão com a internet<br>Sistema fora do ar |
 
 ## Cenário 3
@@ -31,43 +31,43 @@ Abordagem utilizada para descrever as situações de uso do sistema pelos seus u
 | Título | Ver notícias |
 | ------ | ------------ |
 | Objetivo | Se atualizar quanto à novidades relativas ao Metrô DF |
-| Contexto | Ocorre na pagina inicial do aplicativo |
-| Atores | Usuário |
-| Recursos | Aplicativo instalado e acesso à internet |
-| Episódios | Usuário navega pelas notícias no aplicativo<br>Usuário se interessa por uma notícia e à selecionou para entrar em seu contexto |
+| Contexto | Ocorre na página inicial do <a href="../lexico#aplicativo">Aplicativo</a> |
+| Atores | <a href="../lexico#usuario">Usuário</a> |
+| Recursos | <a href="../lexico#aplicativo">Aplicativo</a> instalado e acesso à internet |
+| Episódios | <a href="../lexico#usuario">Usuário</a> navega pelas notícias no <a href="../lexico#aplicativo">Aplicativo</a><br><a href="../lexico#usuario">Usuário</a> se interessa por uma notícia e à selecionou para entrar em seu contexto |
 | Exceção | Sem conexão com a internet<br>Sistema fora do ar |
 
 ## Cenário 4
 
 | Título | Conhecer estações |
 | ------ | ----------------- |
-| Objetivo | Visualizar informações relativas à estação específica |
-| Contexto | Ocorre em página vinculada à pagina inicial do aplicativo |
-| Atores | Usuário |
-| Recursos | Aplicativo instalado e acesso à internet |
-| Episódios | Usuário deseja visualizar estabelecimentos e locais próximos à estação<br>Usuário deseja visualizar serviços dispóníveis na estação<br>Usuário deseja visualizar mapa dos arredores da estação |
+| Objetivo | Visualizar informações relativas à <a href="../lexico#estacao">estação</a> específica |
+| Contexto | Ocorre em página vinculada à página inicial do <a href="../lexico#aplicativo">Aplicativo</a> |
+| Atores | <a href="../lexico#usuario">Usuário</a> |
+| Recursos | <a href="../lexico#aplicativo">Aplicativo</a> instalado e acesso à internet |
+| Episódios | <a href="../lexico#usuario">Usuário</a> deseja visualizar estabelecimentos e locais próximos à <a href="../lexico#estacao">estação</a> <br><a href="../lexico#usuario">Usuário</a> deseja visualizar <a href="../lexico#servicos">serviços</a> disponíveis na <a href="../lexico#estacao">estação</a> <br><a href="../lexico#usuario">Usuário</a> deseja visualizar  <a href="../lexico#mapa">mapa</a> dos arredores da <a href="../lexico#estacao">estação</a> |
 | Exceção | Sem conexão com a internet<br>Sistema fora do ar |
 
 ## Cenário 5
 
-| Título | Planejar trajeto |
+| Título | Planejar <a href="../lexico#trajeto">trajeto</a> |
 | ------ | ----------------- |
-| Objetivo | Fazer planejamento do trajeto a ser percorrido |
-| Contexto | Ocorre em página vinculada à pagina inicial do aplicativo, o usuário deve fornecer estações de partida e destino |
-| Atores | Usuário |
-| Recursos | Aplicativo instalado e acesso à internet |
-| Episódios | Usuário deseja saber quanto tempo levará o trajeto<br>Usuário deseja se haverá transferência de trem no trajeto<br>Usuário deseja visualizar detalhamento do trajeto |
+| Objetivo | Fazer planejamento do <a href="../lexico#trajeto">trajeto</a> a ser percorrido |
+| Contexto | Ocorre em página vinculada à página inicial do <a href="../lexico#aplicativo">Aplicativo</a>, o <a href="../lexico#usuario">Usuário</a> deve fornecer <a href="../lexico#estacao">estações</a> de partida e destino |
+| Atores | <a href="../lexico#usuario">Usuário</a> |
+| Recursos | <a href="../lexico#aplicativo">Aplicativo</a> instalado e acesso à internet |
+| Episódios | <a href="../lexico#usuario">Usuário</a> deseja saber quanto tempo levará o <a href="../lexico#trajeto">trajeto</a><br><a href="../lexico#usuario">Usuário</a> deseja se haverá transferência de <a href="../lexico#trem">trem</a> no <a href="../lexico#trajeto">trajeto</a><br><a href="../lexico#usuario">Usuário</a> deseja visualizar detalhamento do <a href="../lexico#trajeto">trajeto</a> |
 | Exceção | Sem conexão com a internet<br>Sistema fora do ar |
 
 ## Cenário 6
 
-| Título | Falar com a ouvidoria |
+| Título | Falar com a <a href="../lexico#ouvidoria">ouvidoria</a> |
 | ------ | --------------------- |
-| Objetivo | Reportar algo à ouvidoria |
-| Contexto | Ocorre em página vinculada à pagina inicial do aplicativo, dependedo do que deseja reportar, é necessário que usuário tenha cadastro, para os casos de reclamação e denúncia pode-se manter o anonimato |
-| Atores | Usuário e Ouvidoria do Metrô DF |
-| Recursos | Aplicativo instalado e acesso à internet |
-| Episódios | Usuário deseja fazer elogio ao Metrô DF<br>Usuário deseja fazer sugestão ao Metrô DF<br>Usuário deseja fazer solicitação ao Metrô DF<br>Usuário deseja pedir informação ao Metrô DF<br>Usuário deseja fazer reclamação ao Metrô DF<br>Usuário deseja fazer denúncia ao Metrô DF<br> |
+| Objetivo | Reportar algo à <a href="../lexico#ouvidoria">ouvidoria</a> |
+| Contexto | Ocorre em página vinculada à página inicial do <a href="../lexico#aplicativo">Aplicativo</a>, dependedo do que deseja reportar, é necessário que <a href="../lexico#usuario">Usuário</a> tenha  <a href="../lexico#cadastrar">cadastro</a>, para os casos de reclamação e denúncia pode-se manter o anonimato |
+| Atores | <a href="../lexico#usuario">Usuário</a> e <a href="../lexico#ouvidoria">ouvidoria</a> do Metrô DF |
+| Recursos | <a href="../lexico#aplicativo">Aplicativo</a> instalado e acesso à internet |
+| Episódios | <a href="../lexico#usuario">Usuário</a> deseja fazer elogio ao Metrô DF<br><a href="../lexico#usuario">Usuário</a> deseja fazer sugestão ao Metrô DF<br><a href="../lexico#usuario">Usuário</a> deseja fazer solicitação ao Metrô DF<br><a href="../lexico#usuario">Usuário</a> deseja pedir informação ao Metrô DF<br><a href="../lexico#usuario">Usuário</a> deseja fazer reclamação ao Metrô DF<br><a href="../lexico#usuario">Usuário</a> deseja fazer denúncia ao Metrô DF<br> |
 | Exceção | Sem conexão com a internet<br>Sistema fora do ar |
 
 ## Cenário 7
@@ -75,27 +75,28 @@ Abordagem utilizada para descrever as situações de uso do sistema pelos seus u
 | Título | Visualizar informações |
 | ------ | ---------------------- |
 | Objetivo | Consultar informações relativas ao Metrô DF |
-| Contexto | Ocorre em página vinculada à pagina inicial do aplicativo |
-| Atores | Usuário |
-| Recursos | Aplicativo instalado e acesso à internet |
-| Episódios | Usuário deseja consultar valor da passagem<br>Usuário deseja visualizar mapa<br>Usuário deseja visualizar horários de funcionamento<br>Usuário deseja entrar em contato<br>Usuário deseja alertar perda de objeto |
+| Contexto | Ocorre em página vinculada à página inicial do <a href="../lexico#aplicativo">Aplicativo</a> |
+| Atores | <a href="../lexico#usuario">Usuário</a> |
+| Recursos | <a href="../lexico#aplicativo">Aplicativo</a> instalado e acesso à internet |
+| Episódios | <a href="../lexico#usuario">Usuário</a> deseja consultar valor da passagem<br><a href="../lexico#usuario">Usuário</a> deseja visualizar <a href="../lexico#mapa">mapa</a><br><a href="../lexico#usuario">Usuário</a> deseja visualizar <a href="../lexico#horario">horários</a> de funcionamento<br><a href="../lexico#usuario">Usuário</a> deseja entrar em <a href="../lexico#contato">contato</a><br><a href="../lexico#usuario">Usuário</a> deseja alertar perda de objeto |
 | Exceção | Sem conexão com a internet<br>Sistema fora do ar |
 
 ## Cenário 8
 
 | Título | Visualizar mensagens |
 | ------ | -------------------- |
-| Objetivo | Visualizar mensagens sobre informações pertinentes em relação à situação do Metrô DF |
-| Contexto | Ocorre em página vinculada à pagina inicial do aplicativo |
-| Atores | Usuário |
-| Recursos | Aplicativo instalado e acesso à internet |
-| Episódios | Usuário deseja visualizar mensagens |
+| Objetivo | Visualizar <a href="../lexico#mensagem">mensagens</a> sobre informações pertinentes em relação à <a href="../lexico#situacao">situação</a> do Metrô DF |
+| Contexto | Ocorre em página vinculada à pagina inicial do <a href="../lexico#aplicativo">Aplicativo</a> |
+| Atores | <a href="../lexico#usuario">Usuário</a> |
+| Recursos | <a href="../lexico#aplicativo">Aplicativo</a> instalado e acesso à internet |
+| Episódios | <a href="../lexico#usuario">Usuário</a> deseja visualizar <a href="../lexico#mensagem">mensagens</a> |
 | Exceção | Sem conexão com a internet<br>Sistema fora do ar |
 
 ## Referências 
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
 
 ## Histórico de Versões
-| Data       | Versão | Descrição                                       | Autores                       | Revisor          |
-| ---------- | ------ | ---------------------------------------------   | ----------------              | ---------------- |
+| Data       | Versão | Descrição                                       | Autores          | Revisor          |
+| ---------- | ------ | ---------------------------------------------   | ---------------- | ---------------- |
 | 19/08/2021 |  0.1   | Criação e desenvolvimento do documento | João Victor, Pedro Daniel |                  |
+| 15/10/2021 |  0.2   | Linkagem com léxicos | Hérya|                  |
