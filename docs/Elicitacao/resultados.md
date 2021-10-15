@@ -37,13 +37,13 @@
 
 | Número | Requisito               | Técnicas
 | ------ | ----------------------- | ------
-| 1      | O sistema deverá iniciar rapidamente  | Brainstorming
-| 2      | O sistema deverá manter os dados dos usuário de forma segura | Brainstorming, Personas
-| 3      | O sistema deverá apresentar opções de acessibilidade  | Brainstorming
+| 1      | O sistema deverá iniciar rapidamente (máximo de 2 segundos) | Brainstorming
+| 2      | O sistema deverá manter os dados dos usuário de forma segura (Lei Geral de Proteção de Dados) | Brainstorming, Personas
+| 3      | O sistema deverá apresentar opções de acessibilidade (padrão de acessibilidade do World Wide Web Consortium (W3C) ) | Brainstorming
 | 4      | O sistema deverá apresentar um design simples e intuitivo  | Brainstorming, Introspecção, Personas
 | 5      | O sistema deverá executar em qualquer plataforma mobile |Brainstorming,  Introspecção
-| 6      | O sistema deverá suportar grandes quantidades de usuários simultaneamente | Brainstorming
-| 7      | O sistema deverá responder rapidamente  | Brainstorming
+| 6      | O sistema deverá suportar grandes quantidades de usuários simultaneamente (ao menos 100.000 usuários simultâneos)| Brainstorming
+| 7      | O sistema deverá responder rapidamente (máximo de 2 segundos) | Brainstorming
 
 
 ## Versionamento
@@ -52,3 +52,4 @@
 | ---------- | ------ | ---------------------------------------------   | ---------------- | ---------------- |
 | 19/08/2021 |  0.1   | Criação do documento                            | Hérya Rodrigues  |                  |
 | 20/08/2021 |  0.2   | Compilação dos resultados                       | Hérya Rodrigues  |                  |
+| 15/10/2021 |  0.3   | Atualização de requisitos não funcionais        | Hérya Rodrigues  |                  |
