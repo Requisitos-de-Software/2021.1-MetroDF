@@ -50,6 +50,8 @@ nav:
       - Casos de Uso: Analise/casosdeuso.md
       - Lexicos: Analise/lexicos.md
       - First Things First: Analise/ftf.md
+      - Forward-from: Analise/forwardfrom.md
+      - Backward-from: Analise/backwardfrom.md
     - Validação:
       - Prototipagem: Analise/prototipo.md
       - Informal: Analise/informal.md
