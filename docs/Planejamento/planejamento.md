@@ -10,15 +10,15 @@
 
 ## Cronograma de atividades
 
-| Entrega                       | Artefatos     |Previsão de Entrega | Data de entrega limite |
-| ------------------------------| ---------     | ------------------ | ---------------------- |
-| Planejamento do Projeto       | Equipe, Definição do APP e Planejamento do Projeto, RichPicture  |02/08/2021          | 04/08/2021             |
-| Elicitação                    | Técnicas e Priorização |19/08/2021          | 21/08/2021             |
-| Modelagem de Requisitos       |Cenários , Léxico, Use Case, Especificação Suplementar |28/08/2021          | 30/08/2021             |
-| Modelagem de Requisitos Ágil  | Histórias de Usuário, Backlogs, NFR Framework |09/09/2021          | 11/09/2021             |
-| Análise de Requisitos         | Verificação e Validação |16/09/2021          | 18/09/2021             |
-| Pós-Rastreabilidade           | Gerência II |07/10/2021          | 09/10/2021             |
-| Projeto Final                 | Entrega do Projeto final |18/10/2021          | 20/10/2021             |
+| Entrega                       | Artefatos     |Previsão de entrega | Data de entrega limite | Data de entrega Real
+| ------------------------------| ---------     | ------------------ | ---------------------- |---------------------- |
+| Planejamento do Projeto       | Equipe, Definição do APP e Planejamento do Projeto, RichPicture  |02/08/2021 | 04/08/2021 | 03/08/2021
+| Elicitação                    | Técnicas e Priorização |19/08/2021   | 21/08/2021             | 20/08/2021
+| Modelagem de Requisitos       |Cenários , Léxico, Use Case, Especificação Suplementar |28/08/2021 | 30/08/2021   |29/08/2021
+| Modelagem de Requisitos Ágil  | Histórias de Usuário, Backlogs, NFR Framework |09/09/2021 | 11/09/2021  |09/09/2021
+| Análise de Requisitos         | Verificação e Validação |16/09/2021          | 18/09/2021   |17/09/2021
+| Pós-Rastreabilidade           | Gerência II |07/10/2021   | 09/10/2021  |08/10/2021
+| Projeto Final                 | Entrega do Projeto final |18/10/2021  | 20/10/2021  | -
 
 ## Ferramentas
 
@@ -30,6 +30,8 @@
 |<img alt = "Logo GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width = "150"/>| GitHub | Ferramenta utilizada para armazenamento e versionamento dos documentos do projeto |
 |<img alt = "Logo Microsoft Teams" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png"  width = "100"/>| Microsoft Teams | Ferramenta utilizada para as reuniões da equipe |
 |<img alt = "Logo Draw.io" src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto/p/80432565-d0ca-41a2-8a1d-b57fd53497c4/46033790/draw-io-gidq2wpM.jpg"  width = "100"/>| Draw.io | Ferramenta utilizada para a criação de diagramas |
+|<img alt = "Logo Figma" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"  width = "80" height = "70"/>| Figma | Ferramenta utilizada para a criação de protótipos |
+
 
 ## Histórico de Versões
 
@@ -37,3 +39,4 @@
 | ---------- | ------ | --------------------------------------------- | ---------------- | ---------------- |
 | 04/08/2021 | 0.1    | Criação do documento                          | Hérya Rodrigues  |                  |
 | 19/08/2021 | 0.2    | Adição de Ferramentas                         | Hérya Rodrigues  |                  |
+| 15/10/2021 | 0.3    | Adição de ferramentas e atualização do cronograma | Hérya Rodrigues  |                  |
