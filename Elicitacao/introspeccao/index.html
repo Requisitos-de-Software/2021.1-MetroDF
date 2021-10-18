@@ -9,8 +9,8 @@
       
       
       
-      <link rel="shortcut icon" href="../../imagens/logoMetroDF.png">
-      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.0.3">
+      <link rel="icon" href="../../imagens/logoMetroDF.png">
+      <meta name="generator" content="mkdocs-1.2.2, mkdocs-material-7.2.4">
     
     
       
@@ -18,10 +18,10 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.1655a90d.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.f7f47774.min.css">
       
         
-        <link rel="stylesheet" href="../../assets/stylesheets/palette.7fa14f5b.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
         
           
           
@@ -42,6 +42,8 @@
     
     
       
+
+
     
     
   </head>
@@ -53,8 +55,9 @@
     
     
     <body dir="ltr" data-md-color-scheme="" data-md-color-primary="green" data-md-color-accent="">
-      
   
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -71,11 +74,9 @@
       
     </div>
     
-      
-
-<header class="md-header" data-md-component="header">
+      <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="../.." title="Metrô-DF" class="md-header__button md-logo" aria-label="Metrô-DF">
+    <a href="../.." title="Metrô-DF" class="md-header__button md-logo" aria-label="Metrô-DF" data-md-component="logo">
       
   <img src="../../imagens/logoMetroDF.png" alt="logo">
 
@@ -99,9 +100,8 @@
         </div>
       </div>
     </div>
-    <div class="md-header__options">
-      
-    </div>
+    
+    
     
       <label class="md-header__button md-icon" for="__search">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
@@ -111,14 +111,18 @@
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
       <label class="md-search__icon md-icon" for="__search">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
       </label>
-      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
-      </button>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
     </form>
     <div class="md-search__output">
       <div class="md-search__scrollwrap" data-md-scrollfix>
@@ -153,11 +157,9 @@
                     
 
 
-
-
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../.." title="Metrô-DF" class="md-nav__button md-logo" aria-label="Metrô-DF">
+    <a href="../.." title="Metrô-DF" class="md-nav__button md-logo" aria-label="Metrô-DF" data-md-component="logo">
       
   <img src="../../imagens/logoMetroDF.png" alt="logo">
 
@@ -287,6 +289,7 @@
       
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
+      
         
       
       
@@ -301,6 +304,7 @@
       
         
 <nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
   
   
     
@@ -1053,6 +1057,7 @@
 <nav class="md-nav md-nav--secondary" aria-label="Índice">
   
   
+  
     
   
   
@@ -1105,7 +1110,7 @@
                 
                 <h1 id="introspeccao">Introspecção</h1>
 <h2 id="metodologia">Metodologia</h2>
-<p>A introspecção é uma técnica de elicitação na qual os envolvidos se colocam na posição de usuário final do sistema em questão e buscam o entendimento do melhor caminho a seguir e os recursos necessários para executar determinada tarefa.</p>
+<p>A introspecção é uma técnica de elicitação na qual os envolvidos se colocam na posição de usuário final do <a href="../../Modelagem/exico#aplicativo">sistema</a> em questão e buscam o entendimento do melhor caminho a seguir e os recursos necessários para executar determinada tarefa.</p>
 <h2 id="resultado">Resultado</h2>
 <table>
 <thead>
@@ -1117,43 +1122,43 @@
 <tbody>
 <tr>
 <td>1</td>
-<td>O sistema deve estar disponível nos sistemas operacionais móveis mais utilizados</td>
+<td>O <a href="../../Modelagem/exico#aplicativo">sistema</a> deve estar disponível nos sistemas operacionais móveis mais utilizados</td>
 </tr>
 <tr>
 <td>2</td>
-<td>O sistema deve possuir uma interface simples e intuitiva</td>
+<td>O <a href="../../Modelagem/exico#aplicativo">sistema</a> deve possuir uma interface simples e intuitiva</td>
 </tr>
 <tr>
 <td>3</td>
-<td>O usuário deve ser capaz de executar a maioria das ações no app sem precisar realizar cadastro</td>
+<td>O <a href="../../Modelagem/lexico#usuario">usuário</a>  deve ser capaz de executar a maioria das ações no app sem precisar realizar <a href="../../Modelagem/lexico#cadastrar">cadastro</a></td>
 </tr>
 <tr>
 <td>4</td>
-<td>O sistema deve disponibilizar informações básicas como horário de funcionamento e atual preço da passagem</td>
+<td>O <a href="../../Modelagem/exico#aplicativo">sistema</a> deve disponibilizar informações básicas como <a href="../../Modelagem/lexico#horario">horário</a>  de funcionamento e atual preço da passagem</td>
 </tr>
 <tr>
 <td>5</td>
-<td>O sistema deve fornecer a localização de todas as estações</td>
+<td>O <a href="../../Modelagem/exico#aplicativo">sistema</a> deve fornecer a localização de todas as <a href="../../Modelagem/lexico#estacao">estações</a></td>
 </tr>
 <tr>
 <td>6</td>
-<td>O usuário deve ser capaz de consultar o tempo de viagem entre quaisquer duas estações</td>
+<td>O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de consultar o tempo de viagem entre quaisquer duas <a href="../../Modelagem/lexico#estacao">estações</a></td>
 </tr>
 <tr>
 <td>7</td>
-<td>O sistema, ao receber localizações de embarque e destino, deve informar em qual sentido e trem o usuário deve embarcar</td>
+<td>O <a href="../../Modelagem/exico#aplicativo">sistema</a>, ao receber localizações de embarque e destino, deve informar em qual <a href="../../Modelagem/lexico#sentido">sentido</a>  e <a href="../../Modelagem/lexico#trem">trem</a>  o <a href="../../Modelagem/lexico#usuario">usuário</a> deve embarcar</td>
 </tr>
 <tr>
 <td>8</td>
-<td>O usuário deve conseguir acessar informações relativas à uma estação específica, como serviços disponíveis e pontos de acessibilidade</td>
+<td>O <a href="../../Modelagem/lexico#usuario">usuário</a> deve conseguir acessar informações relativas à uma <a href="../../Modelagem/lexico#estacao">estação</a>  específica, como <a href="../../Modelagem/lexico#servicos">serviços</a>  disponíveis e pontos de <a href="../../Modelagem/lexico#acessibilidade">acessibilidade</a></td>
 </tr>
 <tr>
 <td>9</td>
-<td>O sistema deve fornecer opção de contato, para o caso de o usuário querer relatar alguma experiência</td>
+<td>O <a href="../../Modelagem/exico#aplicativo">sistema</a> deve fornecer opção de <a href="../../Modelagem/lexico#contato">contato</a>, para o caso de o <a href="../../Modelagem/lexico#usuario">usuário</a> querer relatar alguma experiência</td>
 </tr>
 <tr>
 <td>10</td>
-<td>O usuário deve ser capaz de selecionar estações favoritas para que seja notificado quanto às suas situações</td>
+<td>O <a href="../../Modelagem/lexico#usuario">usuário</a> deve ser capaz de selecionar <a href="../../Modelagem/lexico#estacao">estações</a> <a href="../../Modelagem/lexico#favoritar">favoritas</a>  para que seja notificado quanto às suas <a href="../../Modelagem/lexico#situacao">situações</a></td>
 </tr>
 </tbody>
 </table>
@@ -1176,6 +1181,13 @@
 <td>0.1</td>
 <td>Criação e desenvolvimento do documento</td>
 <td>João Victor</td>
+<td>Rafael</td>
+</tr>
+<tr>
+<td>18/10/2021</td>
+<td>1.0</td>
+<td>Adição dos hyperlinks para os léxicos</td>
+<td>Rafael</td>
 <td></td>
 </tr>
 </tbody>
@@ -1190,6 +1202,7 @@
             </article>
           </div>
         </div>
+        
       </main>
       
         
@@ -1197,7 +1210,8 @@
   
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
-        <a href="../brainstorming/" class="md-footer__link md-footer__link--prev" rel="prev">
+        
+        <a href="../brainstorming/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Brainstorming" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
           </div>
@@ -1212,7 +1226,8 @@
         </a>
       
       
-        <a href="../observacao/" class="md-footer__link md-footer__link--next" rel="next">
+        
+        <a href="../observacao/" class="md-footer__link md-footer__link--next" aria-label="Próximo: Observação Participativa" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
@@ -1236,6 +1251,7 @@
         <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
           Material for MkDocs
         </a>
+        
       </div>
       
     </div>
@@ -1246,10 +1262,10 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../assets/javascripts/workers/search.fb4a9340.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.709b4209.min.js", "version": null}</script>
     
     
-      <script src="../../assets/javascripts/bundle.ca5457b8.min.js"></script>
+      <script src="../../assets/javascripts/bundle.febc23d1.min.js"></script>
       
     
   </body>
