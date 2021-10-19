@@ -18,7 +18,7 @@
 | Modelagem de Requisitos Ágil  | Histórias de Usuário, Backlogs, NFR Framework |09/09/2021 | 11/09/2021  |09/09/2021
 | Análise de Requisitos         | Verificação e Validação |16/09/2021          | 18/09/2021   |17/09/2021
 | Pós-Rastreabilidade           | Gerência II |07/10/2021   | 09/10/2021  |08/10/2021
-| Projeto Final                 | Entrega do Projeto final |18/10/2021  | 20/10/2021  | -
+| Projeto Final                 | Entrega do Projeto final |18/10/2021  | 20/10/2021  | 19/10/2021 
 
 ## Ferramentas
 
