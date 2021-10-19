@@ -2,7 +2,7 @@
 
 O método MoSCoW é uma técnica de priorização usada na gestão como um todo, análise de negócios, gestão de projetos e desenvolvimento de softwares com o intuito de encontrar um entendimento em comum entre as partes interessadas sobre a importância que elas atribuem a cada requisito.
 
-A técnica de priorização MoSCoW tem um papel fundamental em metodologias ágeis. Em um projeto ágil, é vital entender a importância de coisas diferentes. Isso acontece porque o tempo é um recurso fixo, então a priorização é aplicada a requisitos, tarefas, <a href="../../Modelagem/lexico#estacao">serviços</a>, produtos, cases, etc.
+A técnica de priorização MoSCoW tem um papel fundamental em metodologias ágeis. Em um projeto ágil, é vital entender a importância de coisas diferentes. Isso acontece porque o tempo é um recurso fixo, então a priorização é aplicada a requisitos, tarefas, <a href="../../Modelagem/lexico#servicos">serviços</a>, produtos, cases, etc.
 O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma das quatro categorias com os “Os” no meio para fazer a palavra ser pronunciável. Fica assim:
 
 Must Have (Tenho que fazer)
